@@ -1,28 +1,67 @@
-<configuration>
+<?xml version="1.0"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
 
-    <property>
-        <name>hadoop.tmp.dir</name>
-        <value>/app/hadoop/tmp</value>
-        <description>A base for other temporary directories.</description>
-    </property>
-    <property>
-        <name>fs.default.name</name>
-        <value>hdfs://172.20.10.3:8020/</value>
-        <description>The name of the default file system.  A URI whose
-            scheme and authority determine the FileSystem implementation.  The
-            uri's scheme determines the config property (fs.SCHEME.impl) naming
-            the FileSystem implementation class.  The uri's authority is used to
-            determine the host, port, etc. for a filesystem.</description>
-    </property>
-    <!--
-    <property>
-        <name>localhost</name>
-        <value>file://192.168.0.27:22/</value>
-        <description>The name of the default file system.  A URI whose
-            scheme and authority determine the FileSystem implementation.  The
-            uri's scheme determines the config property (fs.SCHEME.impl) naming
-            the FileSystem implementation class.  The uri's authority is used to
-            determine the host, port, etc. for a filesystem.</description>
-    </property>
-    -->
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://192.168.2.16:8020</value>
+  </property>
+
+  <!-- OOZIE proxy user setting -->
+  <property>
+    <name>hadoop.proxyuser.oozie.hosts</name>
+    <value>*</value>
+  </property>
+  <property>
+    <name>hadoop.proxyuser.oozie.groups</name>
+    <value>*</value>
+  </property>
+
+  <!-- HTTPFS proxy user setting -->
+  <property>
+    <name>hadoop.proxyuser.httpfs.hosts</name>
+    <value>*</value>
+  </property>
+  <property>
+    <name>hadoop.proxyuser.httpfs.groups</name>
+    <value>*</value>
+  </property>
+
+  <!-- Llama proxy user setting -->
+  <property>
+    <name>hadoop.proxyuser.llama.hosts</name>
+    <value>*</value>
+  </property>
+  <property>
+    <name>hadoop.proxyuser.llama.groups</name>
+    <value>*</value>
+  </property>
+
+  <!-- Hue proxy user setting -->
+  <property>
+    <name>hadoop.proxyuser.hue.hosts</name>
+    <value>*</value>
+  </property>
+  <property>
+    <name>hadoop.proxyuser.hue.groups</name>
+    <value>*</value>
+  </property>
+
 </configuration>
+
