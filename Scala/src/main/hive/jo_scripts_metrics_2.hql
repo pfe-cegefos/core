@@ -1,6 +1,6 @@
-drop table if exists dev_app_jo.jo_top5_athletes_per_country;
+drop table if exists dev_lake_jo.jo_top5_athletes_per_country;
 
-create table if not exists dev_app_jo.jo_top5_athletes_per_country
+create table if not exists dev_lake_jo.jo_top5_athletes_per_country
 as
 
 select * from (

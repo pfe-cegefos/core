@@ -1,6 +1,6 @@
-drop table if exists dev_app_jo.jo_top5_sport_per_team;
+drop table if exists dev_lake_jo.jo_top5_sport_per_team;
 
-create table if not exists dev_app_jo.jo_top5_sport_per_team
+create table if not exists dev_lake_jo.jo_top5_sport_per_team
 as
 
 select * from (

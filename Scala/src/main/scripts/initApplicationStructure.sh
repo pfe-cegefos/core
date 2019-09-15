@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#app=$1 {jo, ...}
-#env=$2 {dev, uat, prd}
-#technical user id=$3
+#$1=app {JO, ...}
+#$2=env {dev, uat, prd}
+#$3=technical_user_id (dev_jo, prd_jo, ...)
 
 userid=$3
 

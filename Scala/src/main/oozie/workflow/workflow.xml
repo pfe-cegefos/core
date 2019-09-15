@@ -8,18 +8,8 @@
 	<job-tracker>${jobTracker}</job-tracker>
 	
 	<name-node>${nameNode}</name-node>
-	
-	<configuration>
-		<property>
-			<name>mapred.job.queue.name</name>
-			<value>${poolName}</value>
-		</property>
-	</configuration>
-	
+
 	<exec>${myscript}</exec>
-	
-	<argument>${inputDir}</argument>
-	<argument>${outputDir}</argument>
 	
 	<file>${myscriptPath}</file>
 	

@@ -3,9 +3,14 @@ drop table if exists dev_lake_jo.jo_top5_male_female_last_games;
 create table if not exists dev_lake_jo.jo_top5_male_female_last_games
 as
 
-select * from (
+select ttt.ID as ID,
+  ttt.Name as Name,
+  ttt.sum_medal as Medals,
+  ttt.r as the_Rank
+from (
     select tt.ID, tt.Name, 
-           tt.sum_medal
+           tt.sum_medal,
+           row_number() over(order by tt.sum_medal desc) as r
     from (
         select t.ID, t.Name,
                 sum(t.medal) as sum_medal
@@ -23,6 +28,5 @@ select * from (
         ) t
         group by t.ID, t.Name
     ) tt
-    order by tt.sum_medal desc
 )ttt
-limit 5;
+where ttt.r <= 5;

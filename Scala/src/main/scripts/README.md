@@ -1,0 +1,1 @@
+./initApplicationStructure.sh JO dev dev_jo

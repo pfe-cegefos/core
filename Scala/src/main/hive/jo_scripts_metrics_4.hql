@@ -1,6 +1,6 @@
-drop table if exists dev_app_jo.jo_top5_countries_per_year;
+drop table if exists dev_lake_jo.jo_top5_countries_per_year;
 
-create table if not exists dev_app_jo.jo_top5_countries_per_year
+create table if not exists dev_lake_jo.jo_top5_countries_per_year
 as
 
 select * from (
