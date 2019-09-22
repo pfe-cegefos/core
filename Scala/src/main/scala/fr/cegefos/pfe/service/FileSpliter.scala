@@ -1,10 +1,10 @@
 package fr.cegefos.pfe.service
 
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.sql.{SQLContext, SparkSession}
 import org.apache.hadoop.fs.FileSystem
 import org.apache.hadoop.fs.Path
 
-class FileSpliter(var sparkSession: SparkSession, var fileSystem:FileSystem) {
+class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
 
   val SRC_PATH = "src\\main\\resources\\local\\input"
   val DST_PATH = "src\\main\\resources\\local\\tmp"
@@ -12,7 +12,7 @@ class FileSpliter(var sparkSession: SparkSession, var fileSystem:FileSystem) {
 
   def start() {
 
-    val df = sparkSession.read.format("CSV").option("header", true).option("sep", ";").load(SRC_PATH)
+    val df = sqlContext.read.format("CSV").option("header", true).option("delimiter", ";").load(SRC_PATH)
 
     //if df.count() = 0 {
     //  throw new Exception()

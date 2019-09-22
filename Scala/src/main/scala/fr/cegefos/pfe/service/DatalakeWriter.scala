@@ -1,18 +1,21 @@
 package fr.cegefos.pfe.service
 
-import org.apache.hadoop.fs.FileSystem
-import org.apache.spark.sql.SparkSession
-import org.apache.hadoop.fs.Path
-import java.util.Calendar
+import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
 
-class DatalakeWriter(var sparkSession:SparkSession, hdfsFS:FileSystem, localFS:FileSystem) {
+import org.apache.hadoop.fs.FileSystem
+import org.apache.spark.sql.SQLContext
+import org.apache.hadoop.fs.Path
+
+class DatalakeWriter(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem) {
 
   val arrayGames = new Array[Path](100)
+  val localGames = new Array[Path](100)
   var nbGames = 0
 
   def start(srcLocal:String, srcRaw:String, srcLake:String) {
     copyToRaw(srcLocal, srcRaw)
-    copyToApp(srcRaw, srcLake)
+    copyToLake()
   }
 
   /**
@@ -20,7 +23,7 @@ class DatalakeWriter(var sparkSession:SparkSession, hdfsFS:FileSystem, localFS:F
    */
   def copyToRaw(src:String, dest:String): Unit ={
 
-    val versionDate = getDate
+    val dateVersionning = LocalDateTime.now.format(DateTimeFormatter.ofPattern("YYYYMMdd"))
     val srcPath = new Path(src)
 
     val files = localFS.listFiles(srcPath, false)
@@ -29,7 +32,7 @@ class DatalakeWriter(var sparkSession:SparkSession, hdfsFS:FileSystem, localFS:F
       val file = files.next()
       val name = file.getPath.getName //returns filename
       val currentPath = dest + "/version=current/" + name
-      val versionPath= dest + "/version=" + versionDate + "/" + name
+      val versionPath= dest + "/version=" + dateVersionning + "/" + name
 
       //TODO Enhance this part to manage reinsertion of same file data (versioning management)
       val currentFilePath = new Path(currentPath + "/" + name + ".csv")
@@ -46,6 +49,7 @@ class DatalakeWriter(var sparkSession:SparkSession, hdfsFS:FileSystem, localFS:F
 
       hdfsFS.copyFromLocalFile(file.getPath, currentFilePath)
 
+      localGames(nbGames) = file.getPath
       arrayGames(nbGames) = currentFilePath
       nbGames = nbGames + 1
     }
@@ -54,30 +58,27 @@ class DatalakeWriter(var sparkSession:SparkSession, hdfsFS:FileSystem, localFS:F
   /**
   Copy data from HDFS raw space to HDFS Lake space - transformation to Parquet file
    */
-  def copyToApp(src:String, dest:String): Unit ={
+  def copyToLake(): Unit ={
     var i = 0
     while (i < nbGames) {
+      val srcPath = arrayGames(i)
+      val srcDonePath = new Path(localGames(i).getParent + "/" + "done")
 
-      val df = sparkSession.read.format("CSV").option("header", true).option("sep", ";").load(arrayGames(i).toString)
+      val df = sqlContext.read.format("CSV").option("header", true).option("delimiter", ";").load(srcPath.toString)
 
-      val partitionName = arrayGames(i).getParent.getParent.getName
-      val lakePath = arrayGames(i).getParent.getParent.getParent.toString.replace("raw", "app") + "/Games=" + partitionName
+      val partitionName = arrayGames(i).getParent.getName
+      val lakePath = arrayGames(i).getParent.getParent.getParent.toString.replace("raw", "lake") + "/games=" + partitionName
 
       val lakeDestPath =
         df
           .coalesce(1)
           .write
           .parquet(lakePath)
+
+      //move data copied into Done Path: to avoid additional copy
+      localFS.rename(localGames(i), srcDonePath)
+
       i = i + 1
     }
-  }
-
-  def getDate(): String ={
-    val cal = Calendar.getInstance()
-    val year = cal.get(Calendar.YEAR )
-    val month = cal.get(Calendar.MONTH ) + 1
-    val day = cal.get(Calendar.DAY_OF_MONTH )
-
-    year.toString + month.toString + day.toString
   }
 }

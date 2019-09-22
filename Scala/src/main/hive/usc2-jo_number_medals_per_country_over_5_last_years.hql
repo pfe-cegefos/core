@@ -2,7 +2,6 @@ drop table if exists dev_lake_jo.jo_number_medals_per_country_over_5_last_year;
 
 create table if not exists dev_lake_jo.jo_number_medals_per_country_over_5_last_year
 as
-
 select Team,
        Year,
        count(Medal) as number_medal

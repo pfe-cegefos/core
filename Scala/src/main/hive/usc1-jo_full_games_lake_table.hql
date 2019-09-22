@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS dev_raw_jo.jo_full_games;
+DROP TABLE IF EXISTS dev_lake_jo.jo_full_games;
 
-CREATE EXTERNAL TABLE IF NOT EXISTS dev_raw_jo.jo_full_games(
+CREATE EXTERNAL TABLE IF NOT EXISTS dev_lake_jo.jo_full_games(
     ID  String,
     Name  String,
     Sex  String,
@@ -16,12 +16,9 @@ CREATE EXTERNAL TABLE IF NOT EXISTS dev_raw_jo.jo_full_games(
     Event  String,
     Medal  String
 )
-PARTITIONED BY (Games String)
+PARTITIONED BY (`games` String)
 ROW FORMAT DELIMITED
-FIELDS TERMINATED BY '\;'
-STORED AS TEXTFILE
-LOCATION '/dev/raw/JO/input'
-TBLPROPERTIES ("skip.header.line.count"="1");
+STORED AS PARQUET
+LOCATION '/dev/lake/JO/data';
 
 MSCK REPAIR TABLE dev_raw_jo.jo_full_games;
-SHOW PARTITIONS dev_raw_jo.jo_full_games;

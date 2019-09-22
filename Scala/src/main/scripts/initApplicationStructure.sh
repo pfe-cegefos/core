@@ -24,14 +24,14 @@ function create_hdfs_structure
 
 	hdfs dfs -mkdir -p /$2/$3/$1/$4
 
-	hdfs dfs -chown $5 $2/$3/$1/$4
-	hdfs dfs -chmod 773 $2/$3/$1/$4
+	hdfs dfs -chown $5 /$2/$3/$1/$4
+	hdfs dfs -chmod 773 /$2/$3/$1/$4
 }
 
 echo "Application name= $1"
 
-sudo -i
-su - hdfs
+###sudo -i
+###su -hdfs
 
 #création de l'espace hdfs raw avec affectation des droits au bon groupe
 create_hdfs_structure $1 $2 "raw" "hive" $3
