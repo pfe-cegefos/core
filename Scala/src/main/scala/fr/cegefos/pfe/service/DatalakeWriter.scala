@@ -1,7 +1,7 @@
 package fr.cegefos.pfe.service
 
-import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
+import java.text.SimpleDateFormat
+import java.util.Date
 
 import org.apache.hadoop.fs.FileSystem
 import org.apache.spark.sql.SQLContext
@@ -23,7 +23,8 @@ class DatalakeWriter(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileS
    */
   def copyToRaw(src:String, dest:String): Unit ={
 
-    val dateVersionning = LocalDateTime.now.format(DateTimeFormatter.ofPattern("YYYYMMdd"))
+    val dateVersionning = new SimpleDateFormat("YYYYMMdd").format(new Date)
+
     val srcPath = new Path(src)
 
     val files = localFS.listFiles(srcPath, false)
