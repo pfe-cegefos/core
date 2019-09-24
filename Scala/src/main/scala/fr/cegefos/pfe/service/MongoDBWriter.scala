@@ -1,4 +1,4 @@
-package fr.cegefos.pfe.service
+/*package fr.cegefos.pfe.service
 
 import com.mongodb.spark.MongoSpark
 import org.apache.spark.rdd.RDD
@@ -67,3 +67,4 @@ class MongoDBWriter(var sparkSession:SparkSession) {
 
   }
 }
+*/

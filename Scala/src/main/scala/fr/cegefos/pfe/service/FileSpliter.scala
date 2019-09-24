@@ -1,4 +1,4 @@
-package fr.cegefos.pfe.service
+/*package fr.cegefos.pfe.service
 
 import org.apache.spark.sql.{SQLContext, SparkSession}
 import org.apache.hadoop.fs.FileSystem
@@ -23,6 +23,7 @@ class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
       .partitionBy("Games")
       .option("header", "true")
       .option("delimiter", ";")
+      .option("quote","/"")
       .csv(DST_PATH)
 
     renaming
@@ -45,3 +46,4 @@ class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
   }
 
 }
+*/
