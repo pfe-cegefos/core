@@ -1,4 +1,4 @@
-/*package fr.cegefos.pfe.service
+package fr.cegefos.pfe.service
 
 import org.apache.hadoop.fs.FileSystem
 import org.apache.spark.sql.SQLContext
@@ -56,4 +56,3 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
     }
   }
 }
-*/

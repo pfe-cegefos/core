@@ -1,4 +1,4 @@
-/*package fr.cegefos.pfe.controller
+package fr.cegefos.pfe.controller
 
 import java.text.SimpleDateFormat
 import java.util.Date
@@ -47,9 +47,8 @@ object ApplicationIngestion {
       localConf.set("fs.defaultFS", "file://localhost")
       val localFS = FileSystem.get(localConf)
 
-      val writer = new Writer(sqlContext, hdfsFS, localFS)
-      writer.start(srcLocal, srcRaw, srcLake)
+      val ingestion = new Ingestion(sqlContext, hdfsFS, localFS)
+      ingestion.start(srcLocal, srcRaw, srcLake)
     }
   }
 }
-*/

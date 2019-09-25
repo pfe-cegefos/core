@@ -1,3 +1,4 @@
+/*
 package fr.cegefos.pfe.controller
 
 import fr.cegefos.pfe.service.FileSpliter
@@ -25,3 +26,4 @@ object ApplicationFileSpliter {
     }
   }
 }
+*/
