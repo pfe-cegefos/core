@@ -1,10 +1,10 @@
-/*package fr.cegefos.pfe.service
+package fr.cegefos.pfe.service
 
-import org.apache.spark.sql.{SQLContext, SparkSession}
+import org.apache.spark.sql.SparkSession
 import org.apache.hadoop.fs.FileSystem
 import org.apache.hadoop.fs.Path
 
-class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
+class FileSpliter(var sparkSession: SparkSession, var fileSystem:FileSystem) {
 
   val SRC_PATH = "src\\main\\resources\\local\\input"
   val DST_PATH = "src\\main\\resources\\local\\tmp"
@@ -12,18 +12,20 @@ class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
 
   def start() {
 
-    val df = sqlContext.read.format("CSV").option("header", true).option("delimiter", ";").load(SRC_PATH)
+    val df = sparkSession.read.format("CSV").option("header", true).option("sep", ";").load(SRC_PATH)
 
-    //if df.count() = 0 {
-    //  throw new Exception()
-    //}
-    df
+    import org.apache.spark.sql.functions._
+    val replace = udf {(s: String) => s.replace("\"","")}
+    val df1 = df.withColumn("Name", replace(col("Name")))
+
+    df1
       .coalesce(1)
       .write
       .partitionBy("Games")
       .option("header", "true")
       .option("delimiter", ";")
-      .option("quote","/"")
+      .option("quote", "\"")
+      .option("quoteMode", "true")
       .csv(DST_PATH)
 
     renaming
@@ -36,7 +38,7 @@ class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
       val file = files.next()
 
       if(file.getPath.getName.split("\\.").last == "csv") {
-        val fileName = file.getPath.getParent.getName.replace("Games=","").replace("%20","-")
+        val fileName = file.getPath.getParent.getName.replace("games=","").replace("%20","-")
         fileSystem.rename(file.getPath, new Path(FINAL_PATH + "//" + fileName))
       }
       else {
@@ -44,6 +46,4 @@ class FileSpliter(var sqlContext: SQLContext, var fileSystem:FileSystem) {
       }
     }
   }
-
 }
-*/

@@ -61,7 +61,7 @@ class MongoDBWriter(var sparkSession:SparkSession) {
     }
 
     //drop entire collection
-    MongoSpark.write(df.filter("Games = '0000-Summer'")).mode("overwrite").save();
+    MongoSpark.write(df.filter("games='0000-Summer'")).mode("overwrite").save();
 
     MongoSpark.save(players)
 

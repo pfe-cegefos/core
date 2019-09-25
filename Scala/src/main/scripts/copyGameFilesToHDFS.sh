@@ -17,7 +17,7 @@ function copy
 
 			subfolder=$(echo "$i" | cut -f 1 -d '.')
 			echo "subfolder $subfolder"
-			folder=$2"/Games="$subfolder
+			folder=$2"/games="$subfolder
 			echo "folder $folder"
 
 			echo "copying file $1/$i into $folder/$i ..."
