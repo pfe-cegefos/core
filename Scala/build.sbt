@@ -1,7 +1,7 @@
 lazy val root = (project in file(".")).
   settings(
     name := "PFE-JO",
-    version := "1.0",
+    version := "1.1",
     scalaVersion := "2.11.11",
     mainClass in Compile := Some("fr.cegefos.pfe.controller.ApplicationIngestion")
   )
