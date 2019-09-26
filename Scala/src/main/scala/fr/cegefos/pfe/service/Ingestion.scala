@@ -15,7 +15,6 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
 
   def start(srcLocal:String, srcRaw:String, srcLake:String) {
     val dateVersionning = new SimpleDateFormat("YYYYMMdd").format(new Date)
-    //val dateVersionning = "20190923"
     val srcPath = new Path(srcLocal)
 
     val files = localFS.listFiles(srcPath, false)
@@ -53,9 +52,13 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
           .parquet(lakePath)
 
       //move data copied into Done Path: to avoid additional copy
-      val srcDonePath = new Path(file.getPath.getParent.toString + "/" + "done")
-      localFS.rename(file.getPath, srcDonePath)
+      val srcDonePath = new Path(file.getPath.getParent.toString + "/done")
+      if (!hdfsFS.exists(srcDonePath)) {
+        //create path if not exists
+        hdfsFS.mkdirs(srcDonePath)
+      }
 
+      localFS.rename(file.getPath, new Path(srcDonePath.toString + "/" + file.getPath.getName))
     }
   }
 }
