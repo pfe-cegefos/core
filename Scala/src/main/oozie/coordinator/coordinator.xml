@@ -1,46 +1,31 @@
 <coordinator-app xmlns="uri:oozie:coordinator:0.2"
 				frequency="${coord:days(1)}" 
-				start="2019-07-07T06:00Z" 
+				start="2019-09-27T06:00Z"
 				end="2019-09-30T23:59Z" 
 				timezone="UTC"
 				name="jo_ingestion_coordinator" >
-				
-<datasets>
-    <dataset name="input_dataset" frequency="${coord:days(1)}" initial-instance="2019-07-07T06:00Z" timezone="GMT">
-        <uri-template>/home/cloudera/JO/data</uri-template>
-        <done-flag>*.csv</done-flag>
-    </dataset>
-</datasets>
-<input-events>
-    <data-in name="input_event" dataset="input_dataset">
-        <instance>${coord:current(0)}</instance>
-    </data-in>
-</input-events>                
-<output-events>
-    <data-out name="output_event" dataset="output_dataset">
-        <instance>${coord:current(0)}</instance>
-    </data-out>
-</output-events>
-<action>
-    <workflow>
-        <app-path>${workflowAppUri}</app-path>
-        <configuration>
-            <property>
-                <name>jobTracker</name>
-                <value>${jobTracker}</value>
-            </property>
-            <property>
-                <name>nameNode</name>
-                <value>${nameNode}</value>
-            </property>
-            <property>
-                <name>pool.name</name>
-                <value>${poolName}</value>
-            </property>
-            <property>
-                <name>inputDir</name>
-                <value>${coord:dataIn('input_event')}</value>
-            </property>
-        </configuration>
-    </workflow>
-</action>
+
+    <controls>
+        <timeout>-1</timeout>
+        <concurrency>1</concurrency>
+        <execution>FIFO</execution>
+        <throttle>1</throttle>
+    </controls>
+
+    <action>
+        <workflow>
+            <app-path>${oozieWfApplicationXml}</app-path>
+            <configuration>
+                <property>
+                    <name>jobTracker</name>
+                    <value>${jobTracker}</value>
+                </property>
+                <property>
+                    <name>nameNode</name>
+                    <value>${nameNode}</value>
+                </property>
+            </configuration>
+        </workflow>
+    </action>
+
+</coordinator-app>

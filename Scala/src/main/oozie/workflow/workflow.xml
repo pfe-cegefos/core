@@ -1,31 +1,30 @@
-<workflow-app xmlns="uri:oozie:workflow:0.4" 
-			name="jo-ingestion-wf">
+<workflow-app xmlns="uri:oozie:workflow:0.4" name="jo-ingestion-wf">
 
-<start to="shell-node"/>
+	<start to="shell-node"/>
 
-<action name="shell-node">
-	<shell xmlns="uri:oozie:shell-action:0.2">
-	<job-tracker>${jobTracker}</job-tracker>
-	
-	<name-node>${nameNode}</name-node>
+	<action name="shell-node">
+		<shell xmlns="uri:oozie:shell-action:0.2">
+			<job-tracker>${jobTracker}</job-tracker>
 
-	<exec>${myscript}</exec>
-	
-	<file>${myscriptPath}</file>
-	
-	<capture-output/>
-	</shell>
-	
-	<ok to="end"/>
-	<error to="fail"/>
-</action>
+			<name-node>${nameNode}</name-node>
 
-<kill name="fail">
-	<message>
-		Shell action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
-	</message>
-</kill>
+			<exec>${myscript}</exec>
 
-<end name="end"/>
+			<file>${oozieScripts}</file>
+
+			<capture-output/>
+		</shell>
+
+		<ok to="end"/>
+		<error to="fail"/>
+	</action>
+
+	<kill name="fail">
+		<message>
+			Shell action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
+		</message>
+	</kill>
+
+	<end name="end"/>
 
 </workflow-app>

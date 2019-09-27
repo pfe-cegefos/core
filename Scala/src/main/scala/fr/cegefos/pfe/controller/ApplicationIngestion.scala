@@ -21,26 +21,26 @@ object ApplicationIngestion {
       val type_ = args(0)
 
       val sparkConf = new SparkConf().setAppName("PFE project - " + type_)
-        //.setMaster("local")
+        .setMaster("local")
 
       val sparkContext = new SparkContext(sparkConf)
       val sqlContext = new SQLContext(sparkContext)
-      //val sparkSession = SparkSession.builder().config(sparkConf).getOrCreate()
-      val srcLocal = args(1)
-      val srcRaw = args(2)
-      val srcLake = args(3)
-
+/*
+      val srcLocal = args(0)
+      val srcRaw = args(1)
+      val srcLake = args(2)
+*/
       //val srcLocal = "Scala\\src\\main\\resources\\local\\output"
       //val srcRaw = "hdfs://192.168.2.16:8020/dev/raw/JO/input"
       //val srcLake = "hdfs://192.168.2.16:8020/data/raw/JO/public"
-  /*
+
       val srcLocal = "D:\\Homeware\\DEV\\pfe-cegefos\\core\\Scala\\src\\main\\resources\\local\\output"
       val srcRaw = "D:\\Homeware\\DEV\\pfe-cegefos\\core\\Scala\\src\\main\\resources\\local\\raw"
       val srcLake = "D:\\Homeware\\DEV\\pfe-cegefos\\core\\Scala\\src\\main\\resources\\local\\lake"
-*/
+
       val hadoopConf = new Configuration()
-      hadoopConf.set("fs.defaultFS", "hdfs://localhost:8020")
-      //hadoopConf.set("fs.defaultFS", "file://localhost:8020")
+      //hadoopConf.set("fs.defaultFS", "hdfs://localhost:8020")
+      hadoopConf.set("fs.defaultFS", "file://localhost:8020")
       val hdfsFS = FileSystem.get(hadoopConf)
 
       val localConf = new Configuration()

@@ -33,26 +33,34 @@ echo "Application name= $1"
 ###sudo -i
 ###su -hdfs
 
-#création de l'espace hdfs raw avec affectation des droits au bon groupe
+#hdfs raw space creation
 create_hdfs_structure $1 $2 "raw" "hive" $3
 create_hdfs_structure $1 $2 "raw" "data" $3
 
-#création de l'espace hdfs raw avec affectation des droits au bon groupe
+#hdfs lake space creation
 create_hdfs_structure $1 $2 "lake" "hive" $3
 create_hdfs_structure $1 $2 "lake" "data" $3
 
-#création de l'espace hdfs raw avec affectation des droits au bon groupe
+#hdfs app space creation
 create_hdfs_structure $1 $2 "app" "hive" $3
 create_hdfs_structure $1 $2 "app" "data" $3
 create_hdfs_structure $1 $2 "app" "bin" $3
+create_hdfs_structure $1 $2 "app" "oozie" $3
+create_hdfs_structure $1 $2 "app" "oozie/coordinator" $3
+create_hdfs_structure $1 $2 "app" "oozie/workflow" $3
+create_hdfs_structure $1 $2 "app" "oozie/scripts" $3
+create_hdfs_structure $1 $2 "app" "lib" $3
+create_hdfs_structure $1 $2 "app" "logs" $3
+create_hdfs_structure $1 $2 "app" "conf" $3
 
-#création de la base de données raw
+
+#raw database creation
 create_database $1 $2 "raw"
 
-#création de la base de données lake
+#lake database creation
 create_database $1 $2 "lake"
 
-#création de la base de données app
+#app database creation
 create_database $1 $2 "app"
 
 
