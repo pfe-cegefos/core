@@ -6,7 +6,12 @@
 
 3- Ensure the splited files are present undo /home/cloudera/JO/data folder
 
-4- Execute one of the below "spark-submit" commands :
-spark-submit --conf spark.sql.parquet.writeLegacyFormat=true --master yarn --deploy-mode cluster ~/JO/bin/PFE-JO-assembly-1.1.jar ingestion /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
-or
-spark-submit --conf spark.sql.parquet.writeLegacyFormat=true --master yarn --deploy-mode cluster scripts/PFE-JO-assembly-1.1.jar ingestion /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
+4- Execute one of the below "spark-submit" commands:
+on server  with cluster mode launched with jar on edge:
+spark-submit --master yarn --deploy-mode cluster /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
+
+or on server with cluster mode launched with jar on hdfs:
+spark-submit --master yarn --deploy-mode cluster scripts/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
+
+or on cluster with local mode with jar on edge:
+spark-submit /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data

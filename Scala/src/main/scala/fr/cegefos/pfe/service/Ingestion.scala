@@ -52,13 +52,13 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
           .parquet(lakePath)
 
       //move data copied into Done Path: to avoid additional copy
-      val srcDonePath = new Path(file.getPath.getParent.toString + "/done")
-      if (!hdfsFS.exists(srcDonePath)) {
+      val srcDonePath = new Path(file.getPath.toString.replace("input", "done"))
+      if (!localFS.exists(srcDonePath.getParent)) {
         //create path if not exists
-        hdfsFS.mkdirs(srcDonePath)
+        localFS.mkdirs(srcDonePath.getParent)
       }
 
-      localFS.rename(file.getPath, new Path(srcDonePath.toString + "/" + file.getPath.getName))
+      localFS.rename(file.getPath, srcDonePath)
     }
   }
 }
