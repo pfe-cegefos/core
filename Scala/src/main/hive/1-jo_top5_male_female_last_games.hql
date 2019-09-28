@@ -5,7 +5,9 @@ as
 
 select ttt.ID as ID,
   ttt.Name as Name,
-  ttt.sum_medal as Medals,
+  concat(cast(floor(ttt.sum_medal / 1000000) as string),' g, ',
+        cast(floor((ttt.sum_medal % 1000000) / 1000) as string),' s, ',
+        cast(ttt.sum_medal % 1000 as string),' b') as Medals,
   ttt.r as the_Rank
 from (
     select tt.ID, tt.Name, 

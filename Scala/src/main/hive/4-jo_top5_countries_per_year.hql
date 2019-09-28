@@ -4,7 +4,12 @@ create table if not exists dev_lake_jo.jo_top5_countries_per_year
 as
 
 select * from (
-    select tt.Year, tt.Team, tt.sum_medal, row_number() over (partition by tt.Year order by tt.sum_medal desc) as rank
+    select tt.Year,
+            tt.Team,
+            concat(cast(floor(tt.sum_medal / 1000000) as string),' g, ',
+                 cast(floor((tt.sum_medal % 1000000) / 1000) as string),' s, ',
+                 cast(tt.sum_medal % 1000 as string),' b') as Medals,
+            row_number() over (partition by tt.Year order by tt.sum_medal desc) as rank
     from (
         select t.Year,
                 t.Team,

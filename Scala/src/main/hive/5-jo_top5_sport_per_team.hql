@@ -4,7 +4,12 @@ create table if not exists dev_lake_jo.jo_top5_sport_per_team
 as
 
 select * from (
-    select tt.Team, tt.Sport, tt.sum_medal, row_number() over (partition by tt.Team order by tt.sum_medal desc) as rank
+    select tt.Team,
+            tt.Sport,
+            concat(cast(floor(tt.sum_medal / 1000000) as string),' g, ',
+                  cast(floor((tt.sum_medal % 1000000) / 1000) as string),' s, ',
+                  cast(tt.sum_medal % 1000 as string),' b') as Medals,
+            row_number() over (partition by tt.Team order by tt.sum_medal desc) as rank
     from (
         select t.Team,
                 t.Sport,
