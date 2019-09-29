@@ -17,7 +17,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 679;Ioan Valeriu Achiriloaie;M;23;183;87;Romania;ROU;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 679;Ioan Valeriu Achiriloaie;M;23;183;87;Romania;ROU;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 753;Yurie Adachi;F;28;156;51;Japan;JPN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
-840;"\"Victoria \"\"Vicki\"\" Adams\"";F;24;164;69;Great Britain;GBR;2014;Winter;Sochi;Curling;Curling Women's Curling;Bronze
+840;Victoria Vicki Adams;F;24;164;69;Great Britain;GBR;2014;Winter;Sochi;Curling;Curling Women's Curling;Bronze
 911;Antoine Adelisse;M;17;178;65;France;FRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 1053;Luca Aerni;M;20;177;80;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 1055;Katrien Aerts;F;37;162;51;Belgium;BEL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Halfpipe;NA
@@ -33,16 +33,16 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 1648;Yerdos Zhaksimbinovich Akhmadiyev;M;28;180;72;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 1648;Yerdos Zhaksimbinovich Akhmadiyev;M;28;180;72;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
 1743;Yelizaveta Vyacheslavovna Aksyonova;F;18;168;60;Kazakhstan;KAZ;2014;Winter;Sochi;Luge;Luge Women's Singles;NA
-2414;"\"Chimene Mary \"\"Chemmy\"\" Alcott (-Crawford)\"";F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;NA
-2414;"\"Chimene Mary \"\"Chemmy\"\" Alcott (-Crawford)\"";F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
-2414;"\"Chimene Mary \"\"Chemmy\"\" Alcott (-Crawford)\"";F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
+2414;Chimene Mary Chemmy Alcott (-Crawford);F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;NA
+2414;Chimene Mary Chemmy Alcott (-Crawford);F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
+2414;Chimene Mary Chemmy Alcott (-Crawford);F;31;169;69;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
 2416;Zhanbota Yerkinovna Aldabergenova;F;18;168;57;Kazakhstan;KAZ;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
 2551;Arnaud Alessandria;M;20;185;92;Monaco;MON;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 2551;Arnaud Alessandria;M;20;185;92;Monaco;MON;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 2551;Arnaud Alessandria;M;20;185;92;Monaco;MON;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
-2578;"\"Nicholas \"\"Nick\"\" Alexander\"";M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
-2578;"\"Nicholas \"\"Nick\"\" Alexander\"";M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
-2578;"\"Nicholas \"\"Nick\"\" Alexander\"";M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
+2578;Nicholas Nick Alexander;M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
+2578;Nicholas Nick Alexander;M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
+2578;Nicholas Nick Alexander;M;25;180;64;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
 2639;Hans Daniel Alfredsson;M;41;182;92;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
 3001;Alexei Almoukov;M;23;173;73;Australia;AUS;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 3001;Alexei Almoukov;M;23;173;73;Australia;AUS;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
@@ -50,10 +50,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 3096;Katharina Althaus;F;17;157;52;Germany;GER;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
 3108;Livia Altmann;F;19;165;64;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Bronze
 3109;Mario Altmann;M;27;193;98;Austria;AUT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-3150;"\"Eduardo C. \"\"Eddy\"\" Alvarez\"";M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
-3150;"\"Eduardo C. \"\"Eddy\"\" Alvarez\"";M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
-3150;"\"Eduardo C. \"\"Eddy\"\" Alvarez\"";M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
-3150;"\"Eduardo C. \"\"Eddy\"\" Alvarez\"";M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
+3150;Eduardo C. Eddy Alvarez;M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
+3150;Eduardo C. Eddy Alvarez;M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
+3150;Eduardo C. Eddy Alvarez;M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
+3150;Eduardo C. Eddy Alvarez;M;24;175;72;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
 3381;Andres Ambhl;M;30;176;82;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 3382;Elias Ambhl;M;21;182;82;Switzerland;SUI;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 3464;Mathilde Amivi Petitjean;F;19;163;60;Togo;TOG;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
@@ -88,7 +88,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 4323;Monique Angermller;F;30;174;72;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
 4383;Artyom Alekseyevich Anisimov;M;25;192;82;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 4503;Dborah Jessica Anthonioz;F;35;165;52;France;FRA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
-4538;"\"Matthew \"\"Matt\"\" Antoine\"";M;28;190;84;United States;USA;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;Bronze
+4538;Matthew Matt Antoine;M;28;190;84;United States;USA;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;Bronze
 4540;Jan Antolek;M;23;179;73;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
 4540;Jan Antolek;M;23;179;73;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
 4579;Vladislav Nikolayevich Antonov;M;22;179;80;Russia-1;RUS;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
@@ -119,7 +119,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 5517;Erla sgeirsdttir;F;20;174;NA;Iceland;ISL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 5595;Morten Ask;M;33;185;91;Norway;NOR;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 5692;Jenni Anna Christina Asserholt;F;25;172;71;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
-5933;"\"Franziska Christine \"\"Frnzi\"\" Aufdenblatten\"";F;32;173;68;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
+5933;Franziska Christine Frnzi Aufdenblatten;F;32;173;68;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
 5998;Aleksander Aurdal;M;25;178;84;Norway;NOR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 6147;Nikita Alekseyevich Avtaneyev;M;18;183;73;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 6148;Irina Andreyevna Avvakumova (Taktayeva-);F;22;171;57;Russia;RUS;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
@@ -253,9 +253,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 9635;Florence Elizabeth Bell;F;17;156;59;Ireland;IRL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 9635;Florence Elizabeth Bell;F;17;156;59;Ireland;IRL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 9669;Kacey Lee Bellamy;F;26;170;66;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
-9697;"\"Phillip \"\"Phil\"\" Bellingham\"";M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
-9697;"\"Phillip \"\"Phil\"\" Bellingham\"";M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
-9697;"\"Phillip \"\"Phil\"\" Bellingham\"";M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
+9697;Phillip Phil Bellingham;M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
+9697;Phillip Phil Bellingham;M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
+9697;Phillip Phil Bellingham;M;22;185;84;Australia;AUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
 9781;Anton Sergeyevich Belov;M;27;192;92;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 9785;Yevgeny Nikolayevich Belov;M;23;185;78;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 9785;Yevgeny Nikolayevich Belov;M;23;185;78;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
@@ -270,7 +270,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 10010;Sascha Benecken;M;23;178;74;Germany-2;GER;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 10101;Aleksi Benianidze;M;22;184;80;Georgia;GEO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 10101;Aleksi Benianidze;M;22;184;80;Georgia;GEO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-10142;"\"James Randolph \"\"Jamie\"\" Benn\"";M;24;189;94;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+10142;James Randolph Jamie Benn;M;24;189;94;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 10144;Anthony Benna;M;26;172;76;France;FRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
 10224;Stuart Benson;M;32;195;93;Great Britain-1;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 10268;Stanislav Benyov;M;22;189;90;Bulgaria;BUL;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
@@ -293,7 +293,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 10467;Tora Berger (-Tveldal);F;32;166;56;Norway;NOR;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;Bronze
 10470;Marielle Berger Sabbatel;F;24;161;63;France;FRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
 10472;Patrice Bergeron-Cleary;M;28;188;88;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
-10491;"\"Belle Marlinde \"\"Bell\"\" Berghuis\"";F;28;166;63;Netherlands;NED;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
+10491;Belle Marlinde Bell Berghuis;F;28;166;63;Netherlands;NED;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
 10507;Anders Patrik Berglund;M;25;192;99;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
 10511;Carl Johan Lennart Bergman;M;35;174;69;Sweden;SWE;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 10511;Carl Johan Lennart Bergman;M;35;174;69;Sweden;SWE;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
@@ -331,7 +331,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 11375;Christoph Bieler;M;36;180;70;Austria;AUT;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 11375;Christoph Bieler;M;36;180;70;Austria;AUT;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
 11375;Christoph Bieler;M;36;180;70;Austria;AUT;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Team;Bronze
-11537;"\"Alexandre \"\"Alex\"\" Bilodeau\"";M;26;173;76;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;Gold
+11537;Alexandre Alex Bilodeau;M;26;173;76;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;Gold
 11598;Edson Luques Bindilatti;M;34;190;89;Brazil;BRA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 11610;Thomas Bing;M;23;177;70;Germany;GER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 11610;Thomas Bing;M;23;177;70;Germany;GER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
@@ -342,7 +342,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 11705;Jorge Francisco Birkner Ketelhohn;M;23;NA;NA;Argentina;ARG;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 11705;Jorge Francisco Birkner Ketelhohn;M;23;NA;NA;Argentina;ARG;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 11705;Jorge Francisco Birkner Ketelhohn;M;23;NA;NA;Argentina;ARG;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
-11715;"\"Andreas \"\"Andi\"\" Birnbacher\"";M;32;179;72;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
+11715;Andreas Andi Birnbacher;M;32;179;72;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 11815;David Bissett;M;34;179;102;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 11855;Monika Bittner;F;26;156;60;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 11857;Vanessa Bittner (-Herzog);F;18;175;70;Austria;AUT;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
@@ -403,11 +403,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 12820;Daniel Bhm;M;27;178;72;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 12820;Daniel Bhm;M;27;178;72;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;Silver
 12833;Daniel Bohnacker;M;23;190;83;Germany;GER;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Ski Cross;NA
-12839;"\"David MacLaren \"\"Mac\"\" Bohonnon\"";M;18;173;61;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;NA
+12839;David MacLaren Mac Bohonnon;M;18;173;61;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;NA
 12954;Andrey Sergeyevich Boldykov;M;30;175;85;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
 12956;Boldyn Byambadorj;M;22;170;66;Mongolia;MGL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 12997;Marine Bolliet;F;26;163;52;France;FRA;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-13037;"\"Cameron \"\"Cam\"\" Bolton\"";M;23;191;82;Australia;AUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
+13037;Cameron Cam Bolton;M;23;191;82;Australia;AUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
 13165;Seraina Boner;F;31;168;55;Switzerland;SUI;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 13165;Seraina Boner;F;31;168;55;Switzerland;SUI;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
 13235;Jules Bonnaire;M;22;177;69;France;FRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
@@ -431,7 +431,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 14248;Brittany Starr Bowe;F;25;170;66;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
 14248;Brittany Starr Bowe;F;25;170;66;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
 14248;Brittany Starr Bowe;F;25;170;66;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);NA
-14276;"\"Maddison Michelle \"\"Maddie\"\" Bowman\"";F;20;155;63;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Halfpipe;Gold
+14276;Maddison Michelle Maddie Bowman;F;20;155;63;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Halfpipe;Gold
 14277;Noah Bowman;M;21;178;69;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 14347;Mackenzie Boyd-Clowes;M;22;183;69;Canada;CAN;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
 14347;Mackenzie Boyd-Clowes;M;22;183;69;Canada;CAN;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
@@ -463,7 +463,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 14869;Daan Breeuwsma;M;26;181;73;Netherlands;NED;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;NA
 14965;Davide Bresadola;M;25;167;57;Italy;ITA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
 14965;Davide Bresadola;M;25;167;57;Italy;ITA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
-14988;"\"Gregory \"\"Greg\"\" Bretz\"";M;23;188;88;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
+14988;Gregory Greg Bretz;M;23;188;88;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 15021;Michal Bezina;M;23;173;65;Czech Republic;CZE;2014;Winter;Sochi;Figure Skating;Figure Skating Men's Singles;NA
 15096;Torah Jane Bright (-Thomson);F;27;161;57;Australia;AUS;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;NA
 15096;Torah Jane Bright (-Thomson);F;27;161;57;Australia;AUS;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;Silver
@@ -494,8 +494,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 15537;Jason Brown;M;19;170;61;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
 15556;Lascelles Oneil Brown;M;39;182;100;Canada-1;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
 15556;Lascelles Oneil Brown;M;39;182;100;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
-15570;"\"Philip \"\"Phil\"\" Brown\"";M;22;182;87;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
-15570;"\"Philip \"\"Phil\"\" Brown\"";M;22;182;87;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+15570;Philip Phil Brown;M;22;182;87;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
+15570;Philip Phil Brown;M;22;182;87;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 15635;Antonn Bro;M;26;174;78;Czech Republic;CZE;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 15635;Antonn Bro;M;26;174;78;Czech Republic;CZE;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
 15639;Luk Bro;M;28;186;92;Czech Republic;CZE;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
@@ -507,8 +507,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 15863;Raffaella Brutto;F;26;169;63;Italy;ITA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
 15961;Kjersti stgrd Buaas;F;32;161;57;Norway;NOR;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;NA
 16003;Murray Buchan;M;22;163;64;Great Britain;GBR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
-16094;"\"Nicholas Frederick \"\"Nick\"\" Buckland\"";M;24;182;76;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
-16094;"\"Nicholas Frederick \"\"Nick\"\" Buckland\"";M;24;182;76;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
+16094;Nicholas Frederick Nick Buckland;M;24;182;76;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
+16094;Nicholas Frederick Nick Buckland;M;24;182;76;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 16116;Anastasia Winchester Bucsis;F;24;178;67;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
 16127;Peter Budaj;M;31;185;91;Slovakia;SVK;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 16258;Marion Buillet;F;23;170;56;France;FRA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
@@ -517,11 +517,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 16420;Aleksandar Bundalo;M;24;205;109;Serbia;SRB;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
 16498;Nataliya Leonidivna Burdyga;F;30;167;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
 16589;Tatyana Ivanovna Burina;F;33;163;68;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
-16615;"\"Timothy John \"\"Tim\"\" Burke\"";M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
-16615;"\"Timothy John \"\"Tim\"\" Burke\"";M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
-16615;"\"Timothy John \"\"Tim\"\" Burke\"";M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
-16615;"\"Timothy John \"\"Tim\"\" Burke\"";M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 15 kilometres Mass Start;NA
-16615;"\"Timothy John \"\"Tim\"\" Burke\"";M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
+16615;Timothy John Tim Burke;M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
+16615;Timothy John Tim Burke;M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
+16615;Timothy John Tim Burke;M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
+16615;Timothy John Tim Burke;M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 15 kilometres Mass Start;NA
+16615;Timothy John Tim Burke;M;32;180;73;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 16713;Ilya Alekseyevich Burov;M;22;174;76;Russia;RUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;NA
 16802;Franziska Busch;F;28;163;69;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 16862;Patrick Bussler;M;29;185;84;Germany;GER;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;NA
@@ -561,11 +561,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 18163;Roberto Carceln;M;43;174;75;Peru;PER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 18243;Gregory Carigiet;M;26;183;90;Switzerland;SUI;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 18311;John Carlson;M;24;190;96;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-18446;"\"Alexandra \"\"Alex\"\" Carpenter\"";F;19;170;70;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
+18446;Alexandra Alex Carpenter;F;19;170;70;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
 18538;Pol Carreras Torras;M;24;166;70;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 18538;Pol Carreras Torras;M;24;166;70;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 18594;Pernelle Carron;F;27;160;NA;France-2;FRA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
-18644;"\"Jeffrey J. \"\"Jeff\"\" Carter\"";M;29;190;90;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+18644;Jeffrey J. Jeff Carter;M;29;190;90;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 18680;Stefano Caruso;M;26;180;NA;Germany-2;GER;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
 18908;Queralt Castellet Ibez;F;24;156;52;Spain;ESP;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;NA
 18913;Marissa Castelli;F;23;152;48;United States-1;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Pairs;NA
@@ -578,10 +578,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 19215;Alenka ebaek;F;24;166;61;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
 19215;Alenka ebaek;F;24;166;61;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 19215;Alenka ebaek;F;24;166;61;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
-19311;"\"John Robert \"\"J. R.\"\" Celski\"";M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
-19311;"\"John Robert \"\"J. R.\"\" Celski\"";M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
-19311;"\"John Robert \"\"J. R.\"\" Celski\"";M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
-19311;"\"John Robert \"\"J. R.\"\" Celski\"";M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
+19311;John Robert J. R. Celski;M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
+19311;John Robert J. R. Celski;M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
+19311;John Robert J. R. Celski;M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
+19311;John Robert J. R. Celski;M;23;173;63;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
 19445;Roman ervenka;M;28;181;86;Czech Republic;CZE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 19552;Lucy Chaffer;F;30;167;58;Australia;AUS;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;NA
 19655;Jacky Chamoun;F;22;172;56;Lebanon;LIB;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
@@ -659,7 +659,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 21524;Federico Pablo Cichero;M;30;NA;NA;Argentina;ARG;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 21557;Adam Cielar;M;21;175;57;Poland;POL;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 21557;Adam Cielar;M;21;175;57;Poland;POL;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
-21626;"\"Jennifer \"\"Jenny\"\" Ciochetti\"";F;29;170;76;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
+21626;Jennifer Jenny Ciochetti;F;29;170;76;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 21651;Morgan Cipres;M;22;182;NA;France;FRA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Pairs;NA
 21651;Morgan Cipres;M;22;182;NA;France;FRA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 21661;Mrti Cipulis;M;33;180;87;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
@@ -674,7 +674,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 21894;Eugenio Claro;M;30;175;71;Chile;CHI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 21894;Eugenio Claro;M;30;175;71;Chile;CHI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 21894;Eugenio Claro;M;30;175;71;Chile;CHI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-22114;"\"Benjamin \"\"Ben\"\" Coakwell\"";M;26;178;102;Canada-3;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
+22114;Benjamin Ben Coakwell;M;26;178;102;Canada-3;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 22182;Jesse Cockney;M;24;180;76;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 22182;Jesse Cockney;M;24;180;76;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
 22182;Jesse Cockney;M;24;180;76;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
@@ -725,9 +725,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 23721;Rosanna Lee Crawford;F;25;180;67;Canada;CAN;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
 23746;Katya Crema;F;25;174;64;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
 23788;Valentin Creu;M;24;180;88;Romania;ROU;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
-23793;"\"Christopher \"\"Chris\"\" Creveling\"";M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
-23793;"\"Christopher \"\"Chris\"\" Creveling\"";M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
-23793;"\"Christopher \"\"Chris\"\" Creveling\"";M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
+23793;Christopher Chris Creveling;M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
+23793;Christopher Chris Creveling;M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
+23793;Christopher Chris Creveling;M;27;178;70;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Silver
 23910;Peter Adam Crook;M;21;186;75;British Virgin Islands;IVB;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 23930;Sidney Patrick Crosby;M;26;180;90;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 24243;Aurore Cuinet-Jan;F;28;175;62;France;FRA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
@@ -832,9 +832,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 27442;Albert Mikhaylovich Demchenko;M;42;185;95;Russia;RUS;2014;Winter;Sochi;Luge;Luge Men's Singles;Silver
 27442;Albert Mikhaylovich Demchenko;M;42;185;95;Russia;RUS;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;Silver
 27468;Luke Demetre;M;23;188;104;Canada-3;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
-27504;"\"William \"\"Bill\"\" Demong\"";M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
-27504;"\"William \"\"Bill\"\" Demong\"";M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
-27504;"\"William \"\"Bill\"\" Demong\"";M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Team;NA
+27504;William Bill Demong;M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
+27504;William Bill Demong;M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
+27504;William Bill Demong;M;33;178;66;United States;USA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Team;NA
 27520;Dominic Demschar;M;20;176;75;Australia;AUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 27520;Dominic Demschar;M;20;176;75;Australia;AUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 27556;Patrick Deneen;M;26;170;82;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
@@ -866,10 +866,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 28464;Thomas Diethart;M;21;172;60;Austria;AUT;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
 28464;Thomas Diethart;M;21;172;60;Austria;AUT;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
 28464;Thomas Diethart;M;21;172;60;Austria;AUT;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;Silver
-28503;"\"Jessica \"\"Jessie\"\" Diggins\"";F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
-28503;"\"Jessica \"\"Jessie\"\" Diggins\"";F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
-28503;"\"Jessica \"\"Jessie\"\" Diggins\"";F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
-28503;"\"Jessica \"\"Jessie\"\" Diggins\"";F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
+28503;Jessica Jessie Diggins;F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
+28503;Jessica Jessie Diggins;F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
+28503;Jessica Jessie Diggins;F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
+28503;Jessica Jessie Diggins;F;22;163;58;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 28826;Marvin Dixon;M;30;175;93;Jamaica;JAM;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
 28956;Shane Dobbin;M;34;183;72;New Zealand;NZL;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 5,000 metres;NA
 28956;Shane Dobbin;M;34;183;72;New Zealand;NZL;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 10,000 metres;NA
@@ -896,7 +896,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 29493;Marie Dorin-Habert;F;27;168;55;France;FRA;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
 29546;Aleksandr Sergeyevich Dorozhko;M;22;172;67;Belarus;BLR;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 29578;Fabiana dos Santos;F;30;168;75;Brazil;BRA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
-29584;"\"Joselane \"\"Josi\"\" Rodrigues dos Santos\"";F;29;154;50;Brazil;BRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
+29584;Joselane Josi Rodrigues dos Santos;F;29;154;50;Brazil;BRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
 29638;Anastasiya Aleksandrovna Dotsenko;F;27;170;60;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
 29638;Anastasiya Aleksandrovna Dotsenko;F;27;170;60;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
 29643;Tommaso Dotti;M;20;187;79;Italy;ITA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
@@ -927,10 +927,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 30242;Anastasiya Viktorovna Dubarezova;F;28;171;63;Belarus;BLR;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
 30305;Martina Dubovsk;F;21;174;72;Czech Republic;CZE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 30305;Martina Dubovsk;F;21;174;72;Czech Republic;CZE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
-30337;"\"Matthew \"\"Matt\"\" Duchene\"";M;23;180;91;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+30337;Matthew Matt Duchene;M;23;180;91;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 30352;Alexandra Duckworth;F;26;158;50;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;NA
-30384;"\"Alyson \"\"Aly\"\" Dudek\"";F;23;168;58;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;NA
-30384;"\"Alyson \"\"Aly\"\" Dudek\"";F;23;168;58;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres;NA
+30384;Alyson Aly Dudek;F;23;168;58;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;NA
+30384;Alyson Aly Dudek;F;23;168;58;United States;USA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres;NA
 30449;Sylvain Dufour;M;31;178;82;France;FRA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;NA
 30449;Sylvain Dufour;M;31;178;82;France;FRA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;NA
 30453;Chlo Dufour-Lapointe;F;22;165;61;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Moguls;Silver
@@ -945,7 +945,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 30527;Tomass Dukurs;M;32;186;86;Latvia;LAT;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;NA
 30604;Dmytro Oleksiyovych Dun;M;24;183;78;Ukraine;UKR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
 30604;Dmytro Oleksiyovych Dun;M;24;183;78;Ukraine;UKR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
-30622;"\"David \"\"Dave\"\" Duncan\"";M;31;183;93;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Ski Cross;NA
+30622;David Dave Duncan;M;31;183;93;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Ski Cross;NA
 30660;Susan Krista Dunklee;F;27;170;64;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
 30660;Susan Krista Dunklee;F;27;170;64;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
 30660;Susan Krista Dunklee;F;27;170;64;United States;USA;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
@@ -982,8 +982,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 31411;Johan Niklas Edin;M;28;171;80;Sweden;SWE;2014;Winter;Sochi;Curling;Curling Men's Curling;Bronze
 31419;Ulf Niklas Alexander Edler;M;27;191;98;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
 31441;Polina Edmunds;F;15;165;43;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
-31445;"\"Samuel \"\"Sam\"\" Edney\"";M;29;188;95;Canada;CAN;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
-31445;"\"Samuel \"\"Sam\"\" Edney\"";M;29;188;95;Canada;CAN;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
+31445;Samuel Sam Edney;M;29;188;95;Canada;CAN;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
+31445;Samuel Sam Edney;M;29;188;95;Canada;CAN;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
 31579;Jrg Egger;M;32;178;98;Switzerland-2;SUI;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
 31579;Jrg Egger;M;32;178;98;Switzerland;SUI;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 31582;Reinhard Egger;M;24;191;96;Austria;AUT;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
@@ -995,8 +995,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 31772;Tanja Eisenschmid;F;20;170;63;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 31846;John Erik Eklund;M;20;180;76;Sweden;SWE;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Ski Cross;NA
 31863;Oliver Oscar Emanuel Ekman Larsson;M;22;188;86;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
-32245;"\"Jonathan Paul \"\"Jon\"\" Eley\"";M;29;186;75;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
-32245;"\"Jonathan Paul \"\"Jon\"\" Eley\"";M;29;186;75;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
+32245;Jonathan Paul Jon Eley;M;29;186;75;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
+32245;Jonathan Paul Jon Eley;M;29;186;75;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
 32272;Patrik Eli;M;37;185;88;Czech Republic;CZE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 32277;Emma Maria Josefin Eliasson;F;24;167;68;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 32311;Jeanne Ellegaard;F;26;172;NA;Denmark;DEN;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
@@ -1022,7 +1022,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 33034;Gianina Ernst;F;15;153;44;Germany;GER;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
 33411;Katharine Eustace;F;38;175;68;New Zealand;NZL;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;NA
 33424;Aja L. Evans;F;25;178;77;United States-2;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;Bronze
-33521;"\"Bettina \"\"Tina\"\" Evers\"";F;32;167;66;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
+33521;Bettina Tina Evers;F;32;167;66;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 33617;Christoffer Trentemller Faarup;M;21;190;95;Denmark;DEN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 33617;Christoffer Trentemller Faarup;M;21;190;95;Denmark;DEN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 33617;Christoffer Trentemller Faarup;M;21;190;95;Denmark;DEN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
@@ -1030,10 +1030,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 33619;Marco Fabbri;M;26;164;NA;Italy;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 33650;Vesna Fabjan;F;28;170;62;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;Bronze
 33650;Vesna Fabjan;F;28;170;62;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
-33720;"\"Robert \"\"Rob\"\" Fagan\"";M;37;185;88;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
-33788;"\"Nicholas \"\"Nick\"\" Fairall\"";M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
-33788;"\"Nicholas \"\"Nick\"\" Fairall\"";M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
-33788;"\"Nicholas \"\"Nick\"\" Fairall\"";M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
+33720;Robert Rob Fagan;M;37;185;88;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
+33788;Nicholas Nick Fairall;M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
+33788;Nicholas Nick Fairall;M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
+33788;Nicholas Nick Fairall;M;24;180;68;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
 33791;John Fairbairn;M;30;177;75;Canada;CAN;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;NA
 33812;Mathieu Faivre;M;22;175;78;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 33813;Virginie Faivre;F;31;155;48;Switzerland;SUI;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Halfpipe;NA
@@ -1077,7 +1077,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 34375;Joel Israel Fearon;M;25;178;90;Great Britain-1;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 34464;Denise Feierabend;F;24;170;69;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 34464;Denise Feierabend;F;24;170;69;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
-34583;"\"Susanne \"\"Susi\"\" Fellner\"";F;28;159;57;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
+34583;Susanne Susi Fellner;F;28;159;57;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 34628;Jazmine Fenlator;F;28;175;78;United States-3;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 34633;John Fennell;M;18;191;92;Canada;CAN;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 34637;Anna Fenninger (-Veith);F;24;166;64;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;NA
@@ -1089,7 +1089,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 34719;Marua Ferk;F;25;167;63;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 34719;Marua Ferk;F;25;167;63;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 34719;Marua Ferk;F;25;167;63;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
-34724;"\"Alexander \"\"Alex\"\" Ferlazzo\"";M;18;185;75;Australia;AUS;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
+34724;Alexander Alex Ferlazzo;M;18;185;75;Australia;AUS;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 34807;Ewen Fernandez;M;24;175;73;France;FRA;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,500 metres;NA
 34807;Ewen Fernandez;M;24;175;73;France;FRA;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 5,000 metres;NA
 34807;Ewen Fernandez;M;24;175;73;France;FRA;2014;Winter;Sochi;Speed Skating;Speed Skating Men's Team Pursuit (8 laps);NA
@@ -1143,8 +1143,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 35950;Thomas Florschtz;M;35;184;95;Germany-3;GER;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 35972;Kaspar Fltsch;M;27;172;80;Switzerland;SUI;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;NA
 35972;Kaspar Fltsch;M;27;172;80;Switzerland;SUI;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;NA
-36035;"\"Christopher \"\"Chris\"\" Fogt\"";M;30;183;93;United States-2;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
-36035;"\"Christopher \"\"Chris\"\" Fogt\"";M;30;183;93;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
+36035;Christopher Chris Fogt;M;30;183;93;United States-2;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
+36035;Christopher Chris Fogt;M;30;183;93;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
 36107;Margarita Mikhaylovna Fomina;F;25;175;63;Russia;RUS;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
 36154;Arianna Fontana;F;23;164;63;Italy;ITA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;Silver
 36154;Arianna Fontana;F;23;164;63;Italy;ITA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,000 metres;NA
@@ -1167,7 +1167,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 36513;Simon Fourcade;M;29;174;65;France;FRA;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
 36513;Simon Fourcade;M;29;174;65;France;FRA;2014;Winter;Sochi;Biathlon;Biathlon Men's 15 kilometres Mass Start;NA
 36513;Simon Fourcade;M;29;174;65;France;FRA;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
-36552;"\"Cameron Matthew \"\"Cam\"\" Fowler\"";M;22;185;94;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+36552;Cameron Matthew Cam Fowler;M;22;185;94;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 36755;Kerstin Frank;F;25;163;55;Austria;AUT;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
 36815;Max Franz;M;24;182;90;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 36815;Max Franz;M;24;182;90;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
@@ -1209,10 +1209,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 37899;Marie-Michle Gagnon;F;24;177;68;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 37899;Marie-Michle Gagnon;F;24;177;68;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 37899;Marie-Michle Gagnon;F;24;177;68;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
-37912;"\"Daria \"\"Dasha\"\" Gaiazova\"";F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
-37912;"\"Daria \"\"Dasha\"\" Gaiazova\"";F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
-37912;"\"Daria \"\"Dasha\"\" Gaiazova\"";F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
-37912;"\"Daria \"\"Dasha\"\" Gaiazova\"";F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
+37912;Daria Dasha Gaiazova;F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
+37912;Daria Dasha Gaiazova;F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
+37912;Daria Dasha Gaiazova;F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
+37912;Daria Dasha Gaiazova;F;30;178;69;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
 37922;Cyril Gaillard;M;28;178;72;France;FRA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 37925;Jean-Marc Gaillard;M;33;179;72;France;FRA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 37925;Jean-Marc Gaillard;M;33;179;72;France;FRA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
@@ -1290,11 +1290,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 39599;Georgi Georgiev;M;26;180;80;Bulgaria;BUL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 39599;Georgi Georgiev;M;26;180;80;Bulgaria;BUL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 39692;Sandra Daniela Gerber;F;28;173;75;Switzerland;SUI;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
-39717;"\"Jana \"\"Janka\"\" Gerekov\"";F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
-39717;"\"Jana \"\"Janka\"\" Gerekov\"";F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
-39717;"\"Jana \"\"Janka\"\" Gerekov\"";F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
-39717;"\"Jana \"\"Janka\"\" Gerekov\"";F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-39717;"\"Jana \"\"Janka\"\" Gerekov\"";F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
+39717;Jana Janka Gerekov;F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
+39717;Jana Janka Gerekov;F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
+39717;Jana Janka Gerekov;F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
+39717;Jana Janka Gerekov;F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
+39717;Jana Janka Gerekov;F;29;170;64;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
 39813;Travis Gerrits;M;22;169;64;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;NA
 39876;Ryan Getzlaf;M;28;193;100;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 40256;Marina Gilardoni;F;26;165;65;Switzerland;SUI;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;NA
@@ -1322,17 +1322,17 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 40685;Lucy Glanville;F;19;157;58;Australia;AUS;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
 40728;Konstantin Nikolayevich Glavatskikh;M;28;174;72;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
 40736;Yekaterina Ivanovna Glazyrina;F;26;165;56;Russia;RUS;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-40746;"\"Aleksandr \"\"Alek\"\" Glebov\"";M;30;180;84;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
-40746;"\"Aleksandr \"\"Alek\"\" Glebov\"";M;30;180;84;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
+40746;Aleksandr Alek Glebov;M;30;180;84;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
+40746;Aleksandr Alek Glebov;M;30;180;84;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 40748;Jelena Glebova;F;24;165;49;Estonia;EST;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
 40840;Anders Glersen;M;27;185;NA;Norway;NOR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 40948;Thibault Alexis Godefroy;M;28;185;98;France-2;FRA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
-41011;"\"Nicholas \"\"Nick\"\" Goepper\"";M;19;183;73;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;Bronze
+41011;Nicholas Nick Goepper;M;19;183;73;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;Bronze
 41063;Andreas Gohl;M;20;189;88;Austria;AUT;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 41101;Pl Golberg;M;23;185;NA;Norway;NOR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
-41104;"\"Grace Elizabeth \"\"Gracie\"\" Gold\"";F;18;165;54;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
-41104;"\"Grace Elizabeth \"\"Gracie\"\" Gold\"";F;18;165;54;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
-41105;"\"Taylor Riley \"\"Ty\"\" Gold\"";M;20;175;68;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
+41104;Grace Elizabeth Gracie Gold;F;18;165;54;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
+41104;Grace Elizabeth Gracie Gold;F;18;165;54;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
+41105;Taylor Riley Ty Gold;M;20;175;68;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 41110;Jared Goldberg;M;22;183;84;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 41110;Jared Goldberg;M;22;183;84;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 41115;Sven Goldemann;M;44;180;NA;Germany;GER;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
@@ -1431,7 +1431,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 43659;Matthias Guggenberger;M;29;180;80;Austria;AUT;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;NA
 43694;Charlene Edith Magali Guignard;F;24;158;NA;Italy-2;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
 43694;Charlene Edith Magali Guignard;F;24;158;NA;Italy;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
-43803;"\"Charles \"\"Chas\"\" Guldemond\"";M;26;185;82;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
+43803;Charles Chas Guldemond;M;26;185;82;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
 43816;Faye Gulini;F;21;163;57;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
 43940;Kelly Gunther;F;26;165;65;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
 44067;Anna Andreyevna Guskova;F;21;167;57;Belarus;BLR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
@@ -1466,7 +1466,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 44859;Antonn Hjek;M;26;173;58;Czech Republic;CZE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
 44859;Antonn Hjek;M;26;173;58;Czech Republic;CZE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
 44922;Jaroslav Halk;M;28;180;83;Slovakia;SVK;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-44971;"\"Carl-Christian \"\"Calle\"\" Halfvarsson\"";M;24;184;79;Sweden;SWE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
+44971;Carl-Christian Calle Halfvarsson;M;24;184;79;Sweden;SWE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 44972;Philipp Hlg;M;22;186;78;Liechtenstein;LIE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 44972;Philipp Hlg;M;22;186;78;Liechtenstein;LIE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
 45033;Sam Hall;M;25;180;72;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
@@ -1480,11 +1480,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 45242;Charles Hamelin;M;29;175;71;Canada;CAN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;NA
 45243;Franois Hamelin;M;27;175;73;Canada;CAN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
 45243;Franois Hamelin;M;27;175;73;Canada;CAN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;NA
-45250;"\"Daniel \"\"Dan\"\" Hamhuis\"";M;31;185;92;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+45250;Daniel Dan Hamhuis;M;31;185;92;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 45272;Claire Hamilton;F;25;170;63;Great Britain;GBR;2014;Winter;Sochi;Curling;Curling Women's Curling;Bronze
-45297;"\"Simeon \"\"Simi\"\" Hamilton\"";M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
-45297;"\"Simeon \"\"Simi\"\" Hamilton\"";M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
-45297;"\"Simeon \"\"Simi\"\" Hamilton\"";M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
+45297;Simeon Simi Hamilton;M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
+45297;Simeon Simi Hamilton;M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
+45297;Simeon Simi Hamilton;M;26;180;78;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
 45305;Erin Mullady Hamlin;F;27;170;65;United States;USA;2014;Winter;Sochi;Luge;Luge Women's Singles;Bronze
 45305;Erin Mullady Hamlin;F;27;170;65;United States;USA;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
 45335;Jessica Hammerl;F;25;161;61;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
@@ -1510,15 +1510,15 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 45869;Yuzuru Hanyu;M;19;171;NA;Japan;JPN;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 45870;Martin Hanzal;M;26;198;107;Czech Republic;CZE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 46037;Mattias Hargin;M;28;179;81;Sweden;SWE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-46051;"\"Dominic Mark \"\"Dom\"\" Harington\"";M;29;187;77;Great Britain;GBR;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
+46051;Dominic Mark Dom Harington;M;29;187;77;Great Britain;GBR;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 46069;Henrik Eugne Harlaut;M;22;169;73;Sweden;SWE;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
-46095;"\"Eric J. \"\"E.J.\"\" Harnden\"";M;30;185;84;Canada;CAN;2014;Winter;Sochi;Curling;Curling Men's Curling;Gold
+46095;Eric J. E.J. Harnden;M;30;185;84;Canada;CAN;2014;Winter;Sochi;Curling;Curling Men's Curling;Gold
 46098;Ryan Harnden;M;27;183;91;Canada;CAN;2014;Winter;Sochi;Curling;Curling Men's Curling;Gold
 46135;Viona Harrer;F;27;169;54;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 46225;Maya Harrisson;F;21;161;53;Brazil;BRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 46225;Maya Harrisson;F;21;161;53;Brazil;BRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 46233;Troels Harry;M;23;183;86;Denmark;DEN;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
-46236;"\"Jennifer \"\"Jenny\"\" Har\"";F;26;175;65;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
+46236;Jennifer Jenny Har;F;26;175;65;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 46349;Alex Harvey;M;25;184;75;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 46349;Alex Harvey;M;25;184;75;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 46349;Alex Harvey;M;25;184;75;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
@@ -1589,12 +1589,12 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 47627;Andrea Henkel (-Burke);F;36;159;49;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
 47627;Andrea Henkel (-Burke);F;36;159;49;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
 47693;Taylor Henrich;F;18;166;54;Canada;CAN;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
-47762;"\"Deborah \"\"Debbie\"\" Henry-McCormick\"";F;40;170;77;United States;USA;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
-47771;"\"Russell \"\"Russ\"\" Henshaw\"";M;23;188;85;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
+47762;Deborah Debbie Henry-McCormick;F;40;170;77;United States;USA;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
+47771;Russell Russ Henshaw;M;23;188;85;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 47852;Reinfried Herbst;M;35;182;84;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 47858;Raphael Herburger;M;25;178;77;Austria;AUT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 47925;Keri Marie Herman;F;31;170;63;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Slopestyle;NA
-48028;"\"Jacqueline \"\"Jackie\"\" Hernandez\"";F;21;183;96;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
+48028;Jacqueline Jackie Hernandez;F;21;183;96;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
 48072;Regino Hernndez Martn;M;22;184;72;Spain;ESP;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
 48116;Ilkka Herola;M;18;172;55;Finland;FIN;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 48116;Ilkka Herola;M;18;172;55;Finland;FIN;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
@@ -1617,9 +1617,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 48761;Ayumu Hirano;M;15;160;50;Japan;JPN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;Silver
 48766;Yuka Hirano;F;27;157;52;Japan;JPN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 48769;Taku Hiraoka;M;18;171;63;Japan;JPN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;Bronze
-48815;"\"Gabriele Renate \"\"Gabi\"\" Hirschbichler\"";F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
-48815;"\"Gabriele Renate \"\"Gabi\"\" Hirschbichler\"";F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
-48815;"\"Gabriele Renate \"\"Gabi\"\" Hirschbichler\"";F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
+48815;Gabriele Renate Gabi Hirschbichler;F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
+48815;Gabriele Renate Gabi Hirschbichler;F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
+48815;Gabriele Renate Gabi Hirschbichler;F;30;168;66;Germany;GER;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
 48817;Marcel Hirscher;M;24;173;73;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 48817;Marcel Hirscher;M;24;173;73;Austria;AUT;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;Silver
 48872;Niklas Sivert Hjalmarsson;M;26;191;94;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
@@ -1648,9 +1648,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 49283;Monika Hojnisz;F;22;170;51;Poland;POL;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
 49283;Monika Hojnisz;F;22;170;51;Poland;POL;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
 49283;Monika Hojnisz;F;22;170;51;Poland;POL;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
-49304;"\"Steven \"\"Steve\"\" Holcomb\"";M;33;178;104;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;Bronze
-49304;"\"Steven \"\"Steve\"\" Holcomb\"";M;33;178;104;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
-49314;"\"Jacob \"\"Jake\"\" Holden\"";M;26;187;85;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
+49304;Steven Steve Holcomb;M;33;178;104;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;Bronze
+49304;Steven Steve Holcomb;M;33;178;104;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
+49314;Jacob Jake Holden;M;26;187;85;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
 49318;Wendy Holdener;F;20;168;62;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 49318;Wendy Holdener;F;20;168;62;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 49376;Nate Holland;M;35;178;91;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
@@ -1751,7 +1751,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 52392;Haley Lyn Irwin;F;25;170;78;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
 52394;Hidenori Isa;M;37;170;68;Japan;JPN;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 52394;Hidenori Isa;M;37;170;68;Japan;JPN;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
-52405;"\"Jeffrey Glen \"\"Jeff\"\" Isaacson\"";M;30;173;84;United States;USA;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
+52405;Jeffrey Glen Jeff Isaacson;M;30;173;84;United States;USA;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
 52481;Masako Ishida;F;33;161;56;Japan;JPN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
 52481;Masako Ishida;F;33;161;56;Japan;JPN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 52481;Masako Ishida;F;33;161;56;Japan;JPN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
@@ -1779,7 +1779,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 53132;Lee Steven Jackson;M;33;172;70;Great Britain;GBR;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 53175;Trevor Jacob;M;20;180;88;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
 53178;Lindsey Jacobellis;F;28;168;64;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
-53186;"\"Bradley \"\"Brad\"\" Jacobs\"";M;28;180;81;Canada;CAN;2014;Winter;Sochi;Curling;Curling Men's Curling;Gold
+53186;Bradley Brad Jacobs;M;28;180;81;Canada;CAN;2014;Winter;Sochi;Curling;Curling Men's Curling;Gold
 53205;Anders Jacobsen;M;28;173;59;Norway;NOR;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
 53205;Anders Jacobsen;M;28;173;59;Norway;NOR;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
 53205;Anders Jacobsen;M;28;173;59;Norway;NOR;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;NA
@@ -1815,7 +1815,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 53794;Kjetil Jansrud;M;28;185;83;Norway;NOR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 53850;Ieva Janukeviit;F;19;167;58;Lithuania;LTU;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 53850;Ieva Janukeviit;F;19;167;58;Lithuania;LTU;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
-53859;"\"Michael \"\"Mike\"\" Janyk\"";M;31;181;85;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+53859;Michael Mike Janyk;M;31;181;85;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 53862;Jacqueline Janzen;F;20;178;83;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 53994;Micha Jasiczek;M;19;183;73;Poland;POL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 54012;Sylwia Jakowiec;F;27;160;55;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
@@ -1853,7 +1853,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 54724;Barbara Jezerek;F;27;158;58;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 54724;Barbara Jezerek;F;27;158;58;Slovenia;SLO;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 54771;Jia Zongyang;M;22;175;70;China;CHN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;Bronze
-54938;"\"Timothy Matthew \"\"Tim\"\" Jitloff\"";M;29;180;91;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
+54938;Timothy Matthew Tim Jitloff;M;29;180;91;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 54967;Jo Hae-Ri;F;27;167;53;South Korea;KOR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres;NA
 54967;Jo Hae-Ri;F;27;167;53;South Korea;KOR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 3,000 metres Relay;Gold
 54983;Jo Jeong-Myeong;M;20;176;74;South Korea;KOR;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
@@ -1878,9 +1878,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 55572;Ivan Joller;M;30;180;72;Switzerland;SUI;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;NA
 55614;Arianne Jones;F;23;163;59;Canada;CAN;2014;Winter;Sochi;Luge;Luge Women's Singles;NA
 55680;Jennifer Judith Jones;F;39;173;63;Canada;CAN;2014;Winter;Sochi;Curling;Curling Women's Curling;Gold
-55681;"\"Jennifer Marie \"\"Jenny\"\" Jones\"";F;33;161;61;Great Britain;GBR;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;Bronze
+55681;Jennifer Marie Jenny Jones;F;33;161;61;Great Britain;GBR;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;Bronze
 55694;Lloyd Jones;M;25;185;NA;France-2;FRA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
-55695;"\"Lori \"\"Lolo\"\" Jones\"";F;31;175;70;United States-3;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
+55695;Lori Lolo Jones;F;31;175;70;United States-3;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 55717;Perianne Jones;F;28;167;55;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
 55717;Perianne Jones;F;28;167;55;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 55717;Perianne Jones;F;28;167;55;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
@@ -1982,8 +1982,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 58691;Dias Yerikulovich Keneshev;M;28;172;65;Kazakhstan;KAZ;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 58691;Dias Yerikulovich Keneshev;M;28;172;65;Kazakhstan;KAZ;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;NA
 58698;Ronalds ni;M;22;181;93;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-58734;"\"Samantha \"\"Sami\"\" Kennedy-Sim\"";F;25;169;70;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
-58760;"\"Augustus Richard \"\"Gus\"\" Kenworthy\"";M;22;178;77;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;Silver
+58734;Samantha Sami Kennedy-Sim;F;25;169;70;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
+58760;Augustus Richard Gus Kenworthy;M;22;178;77;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;Silver
 58860;Brendan Kerry;M;19;170;NA;Australia;AUS;2014;Winter;Sochi;Figure Skating;Figure Skating Men's Singles;NA
 58869;Devon Kershaw;M;31;178;72;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 58869;Devon Kershaw;M;31;178;72;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
@@ -1995,7 +1995,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 58899;Shiva Keshavan;M;32;183;85;Individual Olympic Athletes;IOA;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 58914;Ryan James Kesler;M;29;188;92;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 58919;Amanda Kessel;F;22;165;64;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
-58922;"\"Philip Joseph \"\"Phil\"\" Kessel, Jr.\"";M;26;183;92;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+58922;Philip Joseph Phil Kessel, Jr.;M;26;183;92;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 58946;Andrea Keszler;F;24;173;63;Hungary;HUN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;NA
 58946;Andrea Keszler;F;24;173;63;Hungary;HUN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 3,000 metres Relay;NA
 59198;Pavel Sergeyevich Kharitonov;M;24;178;77;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
@@ -2097,7 +2097,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 61094;Mikhail Klecherov;M;31;161;51;Bulgaria;BUL;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 61094;Mikhail Klecherov;M;31;161;51;Bulgaria;BUL;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 61094;Mikhail Klecherov;M;31;161;51;Bulgaria;BUL;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;NA
-61106;"\"Meiskelina Catharina Anna \"\"Carien\"\" Kleibeuker\"";F;35;172;59;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 5,000 metres;Bronze
+61106;Meiskelina Catharina Anna Carien Kleibeuker;F;35;172;59;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 5,000 metres;Bronze
 61161;Viola Kleiser;F;23;178;72;Austria;AUT;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 61180;Hvard Klemetsen;M;35;178;67;Norway;NOR;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 61180;Hvard Klemetsen;M;35;178;67;Norway;NOR;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
@@ -2157,7 +2157,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 62265;Yelena Vladimirovna Kolomina;F;33;158;50;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 62265;Yelena Vladimirovna Kolomina;F;33;158;50;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 62265;Yelena Vladimirovna Kolomina;F;33;158;50;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
-62314;"\"Leonid \"\"Leo\"\" Komarov\"";M;27;180;90;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Bronze
+62314;Leonid Leo Komarov;M;27;180;90;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Bronze
 62358;Andrea Komi;F;17;172;65;Croatia;CRO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 62358;Andrea Komi;F;17;172;65;Croatia;CRO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 62391;Taro Kondo;M;19;175;77;Japan;JPN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,000 metres;NA
@@ -2308,7 +2308,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 64977;Carmen Kng;F;36;169;63;Switzerland;SUI;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
 64979;Patrick Kng;M;30;181;84;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 64979;Patrick Kng;M;30;181;84;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
-64986;"\"Christopher \"\"Chris\"\" Kunitz\"";M;34;183;88;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+64986;Christopher Chris Kunitz;M;34;183;88;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 65033;Claudia Knzel-Nystad;F;36;168;58;Germany;GER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
 65033;Claudia Knzel-Nystad;F;36;168;58;Germany;GER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 65033;Claudia Knzel-Nystad;F;36;168;58;Germany;GER;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;Bronze
@@ -2341,7 +2341,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 65623;Ilkka-Eemeli Laari;M;24;179;72;Finland;FIN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 65663;Isabella Labck;F;27;167;59;Germany;GER;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Parallel Giant Slalom;NA
 65663;Isabella Labck;F;27;167;59;Germany;GER;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Parallel Slalom;NA
-65665;"\"Charline \"\"Charlie\"\" Labont\"";F;31;175;72;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
+65665;Charline Charlie Labont;F;31;175;72;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
 65749;Jn Laco;M;32;180;83;Slovakia;SVK;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 65768;Sbastien Lacroix;M;30;190;80;France;FRA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 65768;Sbastien Lacroix;M;30;190;80;France;FRA;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
@@ -2390,8 +2390,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 66348;John Landsteiner;M;23;180;84;United States;USA;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
 66433;Mathias Lange;M;28;178;82;Austria;AUT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 66451;Andi Langenhan;M;29;180;86;Germany;GER;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
-66524;"\"Steven Daniel \"\"Steve\"\" Langton\"";M;30;188;105;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;Bronze
-66524;"\"Steven Daniel \"\"Steve\"\" Langton\"";M;30;188;105;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
+66524;Steven Daniel Steve Langton;M;30;188;105;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;Bronze
+66524;Steven Daniel Steve Langton;M;30;188;105;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
 66547;Luca Lanotte;M;28;178;70;Italy-1;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
 66547;Luca Lanotte;M;28;178;70;Italy;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 66586;Andrea Lanzl;F;26;162;67;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
@@ -2518,10 +2518,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 69768;Arvis Liepi;M;23;187;77;Latvia;LAT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 69768;Arvis Liepi;M;23;187;77;Latvia;LAT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
 69768;Arvis Liepi;M;23;187;77;Latvia;LAT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
-69796;"\"Theodore Sharp \"\"Ted\"\" Ligety\"";M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
-69796;"\"Theodore Sharp \"\"Ted\"\" Ligety\"";M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;Gold
-69796;"\"Theodore Sharp \"\"Ted\"\" Ligety\"";M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-69796;"\"Theodore Sharp \"\"Ted\"\" Ligety\"";M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
+69796;Theodore Sharp Ted Ligety;M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
+69796;Theodore Sharp Ted Ligety;M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;Gold
+69796;Theodore Sharp Ted Ligety;M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+69796;Theodore Sharp Ted Ligety;M;29;180;86;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 69806;Amanda Mary Lightfoot;F;27;172;60;Great Britain;GBR;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
 69806;Amanda Mary Lightfoot;F;27;172;60;Great Britain;GBR;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
 69813;Mateusz Ligocki;M;31;171;78;Poland;POL;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Boardercross;NA
@@ -2604,7 +2604,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 71875;Nina With Lseth;F;24;172;NA;Norway;NOR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 71875;Nina With Lseth;F;24;172;NA;Norway;NOR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 72081;Sanna Ldi;F;27;173;63;Switzerland;SUI;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
-72133;"\"Pan-To \"\"Barton\"\" Lui\"";M;20;173;66;Hong Kong;HKG;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
+72133;Pan-To Barton Lui;M;20;173;66;Hong Kong;HKG;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
 72158;Stefan Luitz;M;21;185;84;Germany;GER;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 72158;Stefan Luitz;M;21;185;84;Germany;GER;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 72168;Barbara Lukov;F;23;178;75;Slovakia;SVK;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
@@ -2710,7 +2710,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 74922;Kornelia Marek-Kubiska;F;28;165;49;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 74922;Kornelia Marek-Kubiska;F;28;165;49;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 74922;Kornelia Marek-Kubiska;F;28;165;49;Poland;POL;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
-74962;"\"Matthew \"\"Matt\"\" Margetts\"";M;26;175;75;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
+74962;Matthew Matt Margetts;M;26;175;75;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 74969;Thorsten Margis;M;24;192;99;Germany-2;GER;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 74984;Rok Margu;M;27;180;82;Slovenia;SLO;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;NA
 74984;Rok Margu;M;27;180;82;Slovenia;SLO;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;NA
@@ -2739,7 +2739,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 75888;Edson Ricardo Martins;M;24;187;88;Brazil;BRA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 75959;Julia Marty;F;25;169;69;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Bronze
 75962;Stefanie Marty;F;25;168;72;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Bronze
-76010;"\"Gisle Marie \"\"Gigi\"\" Marvin\"";F;26;173;75;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
+76010;Gisle Marie Gigi Marvin;F;26;173;75;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
 76061;Edgars Masaskis;M;33;176;80;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 76325;Lucas Mata;M;25;178;90;Australia;AUS;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 76419;Lukas Mathies;M;22;171;70;Austria;AUT;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;NA
@@ -2767,16 +2767,16 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 77000;Tanja Mayer;F;20;180;73;Switzerland;SUI;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 77006;Veronika Mayerhofer;F;21;176;60;Austria;AUT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
 77006;Veronika Mayerhofer;F;21;176;60;Austria;AUT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
-77047;"\"Benedikt \"\"Bene\"\" Mayr\"";M;24;180;80;Germany;GER;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
+77047;Benedikt Bene Mayr;M;24;180;80;Germany;GER;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 77065;Sergey Vladimirovich Maytakov;M;24;184;77;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 77065;Sergey Vladimirovich Maytakov;M;24;184;77;Russia;RUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-77076;"\"Christopher \"\"Chris\"\" Mazdzer\"";M;25;185;86;United States;USA;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
-77076;"\"Christopher \"\"Chris\"\" Mazdzer\"";M;25;185;86;United States;USA;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
-77079;"\"Klementina \"\"Tina\"\" Maze\"";F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;Gold
-77079;"\"Klementina \"\"Tina\"\" Maze\"";F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
-77079;"\"Klementina \"\"Tina\"\" Maze\"";F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;Gold
-77079;"\"Klementina \"\"Tina\"\" Maze\"";F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
-77079;"\"Klementina \"\"Tina\"\" Maze\"";F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
+77076;Christopher Chris Mazdzer;M;25;185;86;United States;USA;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
+77076;Christopher Chris Mazdzer;M;25;185;86;United States;USA;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
+77079;Klementina Tina Maze;F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;Gold
+77079;Klementina Tina Maze;F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
+77079;Klementina Tina Maze;F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;Gold
+77079;Klementina Tina Maze;F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
+77079;Klementina Tina Maze;F;30;172;68;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
 77089;Maria Marinela Mazilu;F;22;160;58;Romania;ROU;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;NA
 77370;Jenna McCorkell;F;27;165;57;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
 77370;Jenna McCorkell;F;27;165;57;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
@@ -2907,7 +2907,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 82287;Denny Morrison;M;28;183;81;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,000 metres;Silver
 82287;Denny Morrison;M;28;183;81;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,500 metres;Bronze
 82287;Denny Morrison;M;28;183;81;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's Team Pursuit (8 laps);NA
-82333;"\"Matthew \"\"Matt\"\" Mortensen\"";M;28;183;85;United States-2;USA;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
+82333;Matthew Matt Mortensen;M;28;183;85;United States-2;USA;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 82381;Dylan Moscovitch;M;29;177;78;Canada-2;CAN;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Pairs;NA
 82381;Dylan Moscovitch;M;29;177;78;Canada;CAN;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Silver
 82408;Simon Moser;M;24;187;95;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
@@ -2953,8 +2953,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 83658;Andrew Musgrave;M;23;180;75;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 83658;Andrew Musgrave;M;23;180;75;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
 83658;Andrew Musgrave;M;23;180;75;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
-83660;"\"Rosamund \"\"Posy\"\" Musgrave\"";F;27;164;64;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
-83660;"\"Rosamund \"\"Posy\"\" Musgrave\"";F;27;164;64;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
+83660;Rosamund Posy Musgrave;F;27;164;64;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
+83660;Rosamund Posy Musgrave;F;27;164;64;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 10 kilometres;NA
 83667;Ale Mui;M;31;176;83;Slovenia;SLO;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 83872;Per Andr Myhrer;M;31;189;93;Sweden;SWE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 83954;Dmytro Vitaliyovich Mytsak;M;18;183;70;Ukraine;UKR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
@@ -3001,8 +3001,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 85350;Christine Margaret Nesbitt;F;28;171;68;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);NA
 85499;Felix Neureuther;M;29;184;87;Germany;GER;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 85499;Felix Neureuther;M;29;184;87;Germany;GER;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
-85559;"\"Andrew Kelley \"\"Andy\"\" Newell\"";M;30;178;71;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
-85559;"\"Andrew Kelley \"\"Andy\"\" Newell\"";M;30;178;71;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
+85559;Andrew Kelley Andy Newell;M;30;178;71;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
+85559;Andrew Kelley Andy Newell;M;30;178;71;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
 85788;Christian Elza Niccum;M;36;188;86;United States-1;USA;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 85788;Christian Elza Niccum;M;36;188;86;United States;USA;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
 85806;Jamie Nicholls;M;20;178;72;Great Britain;GBR;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
@@ -3102,7 +3102,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 87392;Kaarel Nurmsalu;M;22;183;68;Estonia;EST;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
 87392;Kaarel Nurmsalu;M;22;183;68;Estonia;EST;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
 87425;Emma Nuutinen;F;17;176;73;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
-87549;"\"Steven \"\"Steve\"\" Nyman\"";M;31;193;100;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
+87549;Steven Steve Nyman;M;31;193;100;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 87555;Gustav Bo Nils Nyquist;M;24;180;84;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Silver
 87605;O Je-Han;M;22;180;95;South Korea-2;KOR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 87652;Danielle O'Brien;F;23;150;46;Australia;AUS;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
@@ -3176,7 +3176,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 89687;Chiho Osawa;F;21;162;63;Japan;JPN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 89705;Manuel Osborne-Paradis;M;29;183;94;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 89705;Manuel Osborne-Paradis;M;29;183;94;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
-89734;"\"Thomas Leif \"\"T. J.\"\" Oshie\"";M;27;180;90;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+89734;Thomas Leif T. J. Oshie;M;27;180;90;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 89735;Misaki Oshigiri;F;21;167;60;Japan;JPN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
 89735;Misaki Oshigiri;F;21;167;60;Japan;JPN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);NA
 89761;Denis Olegovich Osipov;M;30;176;68;Belarus;BLR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Aerials;NA
@@ -3195,7 +3195,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 90164;Aleksandr Mikhaylovich Ovechkin;M;28;189;99;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 90225;Jenny Owens;F;35;168;65;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;NA
 90339;Sandis Ozoli;M;41;190;95;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-90440;"\"Maximillian K. \"\"Max\"\" Pacioretty\"";M;25;188;98;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+90440;Maximillian K. Max Pacioretty;M;25;188;98;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 90475;Victoria Padial Hernndez;F;25;165;53;Spain;ESP;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
 90475;Victoria Padial Hernndez;F;25;165;53;Spain;ESP;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
 90475;Victoria Padial Hernndez;F;25;165;53;Spain;ESP;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
@@ -3223,7 +3223,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 91421;Dominik Paris;M;24;184;100;Italy;ITA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 91421;Dominik Paris;M;24;184;100;Italy;ITA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 91421;Dominik Paris;M;24;184;100;Italy;ITA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
-91427;"\"Zachary Justin \"\"Zach\"\" Parise\"";M;29;170;89;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+91427;Zachary Justin Zach Parise;M;29;170;89;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 91510;Park Hui-Jin;F;34;159;50;South Korea;KOR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Halfpipe;NA
 91529;Park Je-Yun;M;19;175;70;South Korea;KOR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 91529;Park Je-Yun;M;19;175;70;South Korea;KOR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
@@ -3242,8 +3242,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 91701;Paul Bonifacio Parkinson;M;22;163;NA;Italy;ITA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
 91712;Nicole Parks;F;21;168;58;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Moguls;NA
 91755;Matthew Parr;M;23;180;NA;Great Britain;GBR;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;NA
-91780;"\"Maxence \"\"Max\"\" Parrot\"";M;19;180;70;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
-91802;"\"Dominic Edward \"\"Dom\"\" Parsons\"";M;26;185;90;Great Britain;GBR;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;NA
+91780;Maxence Max Parrot;M;19;180;70;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
+91802;Dominic Edward Dom Parsons;M;26;185;90;Great Britain;GBR;2014;Winter;Sochi;Skeleton;Skeleton Men's Skeleton;NA
 91897;Yekaterina Vladimirovna Pashkevich;F;41;174;74;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 91907;Viktor Pasichnyk;M;21;184;72;Ukraine;UKR;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 91907;Viktor Pasichnyk;M;21;184;72;Ukraine;UKR;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
@@ -3257,7 +3257,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 92183;Kateina Paulthov;F;20;171;65;Czech Republic;CZE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 92233;Ville Paumola;M;22;172;68;Finland;FIN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
 92266;Ondej Pavelec;M;26;188;92;Czech Republic;CZE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
-92271;"\"Joseph James \"\"Joe\"\" Pavelski\"";M;29;180;86;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
+92271;Joseph James Joe Pavelski;M;29;180;86;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 92292;Aleksey Andreyevich Pavlenko;M;18;171;63;Russia;RUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
 92297;Semyon Aleksandrovich Pavlichenko;M;22;180;91;Russia;RUS;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 92308;iga Pavlin;M;28;193;98;Slovenia;SLO;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
@@ -3357,7 +3357,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 94729;Vronique Pierron;F;24;172;60;France;FRA;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres;NA
 94757;Maria Helena Pietil Holmner;F;27;170;63;Sweden;SWE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 94757;Maria Helena Pietil Holmner;F;27;170;63;Sweden;SWE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
-94761;"\"Alexander \"\"Alex\"\" Pietrangelo\"";M;24;190;96;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+94761;Alexander Alex Pietrangelo;M;24;190;96;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 94816;Antti Sakari Pihlstrm;M;29;180;82;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Bronze
 94817;Han Hendrik Piho;M;20;176;65;Estonia;EST;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 94817;Han Hendrik Piho;M;20;176;65;Estonia;EST;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
@@ -3367,7 +3367,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 94884;Marina Piller;F;29;163;52;Italy;ITA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 94884;Marina Piller;F;29;163;52;Italy;ITA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 94884;Marina Piller;F;29;163;52;Italy;ITA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
-95033;"\"Friedrich \"\"Fritz\"\" Pinter\"";M;35;186;80;Austria;AUT;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
+95033;Friedrich Fritz Pinter;M;35;186;80;Austria;AUT;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
 95067;Alexis Pinturault;M;22;180;80;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;Bronze
 95067;Alexis Pinturault;M;22;180;80;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 95067;Alexis Pinturault;M;22;180;80;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
@@ -3397,14 +3397,14 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 95737;David Poisson;M;31;172;88;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 95737;David Poisson;M;31;172;88;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
 95746;Andrew Poje;M;26;191;85;Canada-2;CAN;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
-95823;"\"Terzia \"\"Terka\"\" Poliakov\"";F;24;170;53;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-95823;"\"Terzia \"\"Terka\"\" Poliakov\"";F;24;170;53;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
+95823;Terzia Terka Poliakov;F;24;170;53;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
+95823;Terzia Terka Poliakov;F;24;170;53;Slovakia;SVK;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
 95853;Olha Yurivna Poliuk;F;26;161;55;Ukraine;UKR;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
 95934;Aleksey Yuryevich Poltoranin;M;26;186;73;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 95934;Aleksey Yuryevich Poltoranin;M;26;186;73;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
 95934;Aleksey Yuryevich Poltoranin;M;26;186;73;Kazakhstan;KAZ;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
-95964;"\"Nicolas \"\"Niko\"\" Polykhronidis\"";M;24;184;68;Greece;GRE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
-95964;"\"Nicolas \"\"Niko\"\" Polykhronidis\"";M;24;184;68;Greece;GRE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
+95964;Nicolas Niko Polykhronidis;M;24;184;68;Greece;GRE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Normal Hill, Individual;NA
+95964;Nicolas Niko Polykhronidis;M;24;184;68;Greece;GRE;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Individual;NA
 96082;Michela Ponza;F;34;164;52;Italy;ITA;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
 96082;Michela Ponza;F;34;164;52;Italy;ITA;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
 96082;Michela Ponza;F;34;164;52;Italy;ITA;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;NA
@@ -3467,8 +3467,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 97391;Cornel Dumitru Puchlanu;M;24;174;69;Romania;ROU;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 97391;Cornel Dumitru Puchlanu;M;24;174;69;Romania;ROU;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
 97391;Cornel Dumitru Puchlanu;M;24;174;69;Romania;ROU;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
-97407;"\"Alejandro \"\"Alex\"\" Puente Tasias\"";M;19;182;79;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
-97407;"\"Alejandro \"\"Alex\"\" Puente Tasias\"";M;19;182;79;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+97407;Alejandro Alex Puente Tasias;M;19;182;79;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
+97407;Alejandro Alex Puente Tasias;M;19;182;79;Spain;ESP;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 97456;Georgijs Pujacs;M;32;184;105;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 97475;Roberto Putis;M;19;171;71;Latvia;LAT;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
 97512;Tommi Markus Oskari Pulli;M;21;183;70;Finland;FIN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,000 metres;NA
@@ -3511,7 +3511,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 98821;Kikkan Lewis Randall (-Ellis);F;31;165;60;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
 98821;Kikkan Lewis Randall (-Ellis);F;31;165;60;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 98821;Kikkan Lewis Randall (-Ellis);F;31;165;60;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Team Sprint;NA
-98826;"\"Timothy \"\"Tim\"\" Randall\"";M;27;179;105;Canada-1;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
+98826;Timothy Tim Randall;M;27;179;105;Canada-1;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 98873;Raido Rnkel;M;24;186;75;Estonia;EST;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 98873;Raido Rnkel;M;24;186;75;Estonia;EST;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 98873;Raido Rnkel;M;24;186;75;Estonia;EST;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
@@ -3578,7 +3578,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 100568;Jan Olof Daniel Richardsson;M;31;192;85;Sweden;SWE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;Gold
 100633;Malle Danica Ricker;F;35;169;63;Canada;CAN;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Boardercross;NA
 100638;Peter Rickmers;M;34;185;NA;Germany;GER;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
-100655;"\"Michael \"\"Mike\"\" Riddle\"";M;27;182;82;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;Silver
+100655;Michael Mike Riddle;M;27;182;82;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;Silver
 100687;Emanuel Rieder;M;20;179;82;Italy;ITA;2014;Winter;Sochi;Luge;Luge Men's Singles;NA
 100692;Ludwig Rieder;M;22;191;75;Italy-2;ITA;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 100726;Claudia Riegler;F;40;168;70;Austria;AUT;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Parallel Giant Slalom;NA
@@ -3671,7 +3671,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 103559;Lyndon Rush;M;33;183;102;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 103725;Tuomo Iisakki Ruutu;M;30;182;89;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Bronze
 103825;Darya Vladimirovna Rybalova;F;25;162;57;Kazakhstan;KAZ;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Moguls;NA
-103851;"\"James David \"\"Dave\"\" Ryding\"";M;27;180;74;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+103851;James David Dave Ryding;M;27;180;74;Great Britain;GBR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 103861;Johannes Rydzek;M;22;178;60;Germany;GER;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Normal Hill / 10 km, Individual;NA
 103861;Johannes Rydzek;M;22;178;60;Germany;GER;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Large Hill / 10 km, Individual;NA
 103861;Johannes Rydzek;M;22;178;60;Germany;GER;2014;Winter;Sochi;Nordic Combined;Nordic Combined Men's Team;Silver
@@ -3812,16 +3812,16 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 108529;Serhiy Oleksandrovych Semenov;M;25;179;69;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
 108529;Serhiy Oleksandrovych Semenov;M;25;179;69;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 108529;Serhiy Oleksandrovych Semenov;M;25;179;69;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;NA
-108540;"\"Valentyna Oleksandrivna \"\"Valj\"\" Semerenko\"";F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
-108540;"\"Valentyna Oleksandrivna \"\"Valj\"\" Semerenko\"";F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
-108540;"\"Valentyna Oleksandrivna \"\"Valj\"\" Semerenko\"";F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
-108540;"\"Valentyna Oleksandrivna \"\"Valj\"\" Semerenko\"";F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-108540;"\"Valentyna Oleksandrivna \"\"Valj\"\" Semerenko\"";F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;Gold
-108541;"\"Viktoriya Oleksandrivna \"\"Vita\"\" Semerenko\"";F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;Bronze
-108541;"\"Viktoriya Oleksandrivna \"\"Vita\"\" Semerenko\"";F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
-108541;"\"Viktoriya Oleksandrivna \"\"Vita\"\" Semerenko\"";F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
-108541;"\"Viktoriya Oleksandrivna \"\"Vita\"\" Semerenko\"";F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
-108541;"\"Viktoriya Oleksandrivna \"\"Vita\"\" Semerenko\"";F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;Gold
+108540;Valentyna Oleksandrivna Valj Semerenko;F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;NA
+108540;Valentyna Oleksandrivna Valj Semerenko;F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
+108540;Valentyna Oleksandrivna Valj Semerenko;F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
+108540;Valentyna Oleksandrivna Valj Semerenko;F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
+108540;Valentyna Oleksandrivna Valj Semerenko;F;28;161;54;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;Gold
+108541;Viktoriya Oleksandrivna Vita Semerenko;F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 7.5 kilometres Sprint;Bronze
+108541;Viktoriya Oleksandrivna Vita Semerenko;F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 10 kilometres Pursuit;NA
+108541;Viktoriya Oleksandrivna Vita Semerenko;F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 12.5 kilometres Mass Start;NA
+108541;Viktoriya Oleksandrivna Vita Semerenko;F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 15 kilometres;NA
+108541;Viktoriya Oleksandrivna Vita Semerenko;F;28;162;58;Ukraine;UKR;2014;Winter;Sochi;Biathlon;Biathlon Women's 4 x 6 kilometres Relay;Gold
 108576;Mikhail Alekseyevich Semyonov;M;28;168;66;Belarus;BLR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 108576;Mikhail Alekseyevich Semyonov;M;28;168;66;Belarus;BLR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 108576;Mikhail Alekseyevich Semyonov;M;28;168;66;Belarus;BLR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 50 kilometres;NA
@@ -3931,13 +3931,13 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 110837;Inna Valeryevna Simonova;F;23;154;48;Kazakhstan;KAZ;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;NA
 110837;Inna Valeryevna Simonova;F;23;154;48;Kazakhstan;KAZ;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,000 metres;NA
 110837;Inna Valeryevna Simonova;F;23;154;48;Kazakhstan;KAZ;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,500 metres;NA
-110843;"\"Benjamin Stuart \"\"Ben\"\" Simons\"";M;27;186;90;Great Britain-2;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
+110843;Benjamin Stuart Ben Simons;M;27;186;90;Great Britain-2;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 110904;Emre imek;M;26;178;78;Turkey;TUR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 110904;Emre imek;M;26;178;78;Turkey;TUR;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 110919;Sin Da-Un;M;20;174;61;South Korea;KOR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
 110919;Sin Da-Un;M;20;174;61;South Korea;KOR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
 110919;Sin Da-Un;M;20;174;61;South Korea;KOR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;NA
-110960;"\"Rebecca \"\"Bex\"\" Sinclair\"";F;22;165;62;New Zealand;NZL;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;NA
+110960;Rebecca Bex Sinclair;F;22;165;62;New Zealand;NZL;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;NA
 111290;Viktoriya Aleksandrovna Sinitsina;F;18;166;NA;Russia-3;RUS;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
 111409;Saija Katariina Sirvi-Tarkki;F;31;172;60;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 111448;Aleksey Sitnikov;M;27;171;NA;Azerbaijan;AZE;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;NA
@@ -3977,7 +3977,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 112049;Greta Small;F;18;181;70;Australia;AUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 112049;Greta Small;F;18;181;70;Australia;AUS;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
 112071;Helena Olsson Smeby;F;30;164;NA;Norway;NOR;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
-112086;"\"Johannes Adrianus Albertus \"\"Jan\"\" Smeekens\"";M;26;176;72;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 500 metres;Silver
+112086;Johannes Adrianus Albertus Jan Smeekens;M;26;176;72;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 500 metres;Silver
 112117;Ladislav md;M;28;191;94;Czech Republic;CZE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 112206;Callum Smith;M;21;180;74;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 112206;Callum Smith;M;21;180;74;Great Britain;GBR;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
@@ -3993,8 +3993,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 112361;Nathan Smith;M;28;176;74;Canada;CAN;2014;Winter;Sochi;Biathlon;Biathlon Men's 15 kilometres Mass Start;NA
 112361;Nathan Smith;M;28;176;74;Canada;CAN;2014;Winter;Sochi;Biathlon;Biathlon Men's 20 kilometres;NA
 112361;Nathan Smith;M;28;176;74;Canada;CAN;2014;Winter;Sochi;Biathlon;Biathlon Men's 4 x 7.5 kilometres Relay;NA
-112421;"\"Warren Cummings \"\"Trace\"\" Smith\"";M;21;189;86;Estonia;EST;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
-112421;"\"Warren Cummings \"\"Trace\"\" Smith\"";M;21;189;86;Estonia;EST;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+112421;Warren Cummings Trace Smith;M;21;189;86;Estonia;EST;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
+112421;Warren Cummings Trace Smith;M;21;189;86;Estonia;EST;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 112457;Sebastien 'Seppe' Smits;M;22;180;72;Belgium;BEL;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
 112473;Yekaterina Vyacheslavovna Smolentseva;F;32;176;64;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 112479;Yekaterina Anatolyevna Smolina;F;25;164;54;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
@@ -4049,8 +4049,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 113819;Per Axel Hkan Spett;M;28;168;74;Sweden;SWE;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
 113832;Kerstin Spielberger;F;18;169;61;Germany;GER;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 113937;Natalie Marie Spooner;F;23;178;80;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
-113973;"\"Christopher \"\"Chris\"\" Spring\"";M;29;181;101;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
-113973;"\"Christopher \"\"Chris\"\" Spring\"";M;29;181;101;Canada-1;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
+113973;Christopher Chris Spring;M;29;181;101;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
+113973;Christopher Chris Spring;M;29;181;101;Canada-1;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 114001;Jnis Sprukts;M;32;189;85;Latvia;LAT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 114084;Marianne St-Gelais;F;23;163;62;Canada;CAN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 500 metres;NA
 114084;Marianne St-Gelais;F;23;163;62;Canada;CAN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Women's 1,000 metres;NA
@@ -4089,9 +4089,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 114942;Derek Kenneth Stepan;M;23;183;89;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 114963;Christoph Stephan;M;28;187;85;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 114963;Christoph Stephan;M;28;187;85;Germany;GER;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
-114976;"\"Elizabeth \"\"Liz\"\" Stephen\"";F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
-114976;"\"Elizabeth \"\"Liz\"\" Stephen\"";F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
-114976;"\"Elizabeth \"\"Liz\"\" Stephen\"";F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
+114976;Elizabeth Liz Stephen;F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 30 kilometres;NA
+114976;Elizabeth Liz Stephen;F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
+114976;Elizabeth Liz Stephen;F;27;157;48;United States;USA;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;NA
 115004;Daniil Steptenko;M;27;182;74;Estonia;EST;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
 115004;Daniil Steptenko;M;27;182;74;Estonia;EST;2014;Winter;Sochi;Biathlon;Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay;NA
 115004;Daniil Steptenko;M;27;182;74;Estonia;EST;2014;Winter;Sochi;Biathlon;Biathlon Men's 12.5 kilometres Pursuit;NA
@@ -4135,7 +4135,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 115981;Ilka tuhec;F;23;172;72;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 115981;Ilka tuhec;F;23;172;72;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Combined;NA
 115987;Aleksey Vitalyevich Stukalsky;M;25;180;NA;Russia;RUS;2014;Winter;Sochi;Curling;Curling Men's Curling;NA
-116122;"\"Pernell Karl \"\"PK\"\" Subban\"";M;24;183;98;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
+116122;Pernell Karl PK Subban;M;24;183;98;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;Gold
 116148;Kanet Sucharitakul;M;21;170;67;Thailand;THA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
 116148;Kanet Sucharitakul;M;21;170;67;Thailand;THA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 116154;Dominik Such;M;26;185;98;Czech Republic;CZE;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
@@ -4201,9 +4201,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 117150;Bart Ren M. Swings;M;22;179;67;Belgium;BEL;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 5,000 metres;NA
 117150;Bart Ren M. Swings;M;22;179;67;Belgium;BEL;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 10,000 metres;NA
 117158;Ann E. Swisshelm (-Silver);F;45;175;72;United States;USA;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
-117203;"\"Konstantinos \"\"Kostas\"\" Sykaras\"";M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
-117203;"\"Konstantinos \"\"Kostas\"\" Sykaras\"";M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
-117203;"\"Konstantinos \"\"Kostas\"\" Sykaras\"";M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
+117203;Konstantinos Kostas Sykaras;M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Super G;NA
+117203;Konstantinos Kostas Sykaras;M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Giant Slalom;NA
+117203;Konstantinos Kostas Sykaras;M;29;172;77;Greece;GRE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 117264;Aleksandr Valeryevich Syomin;M;29;189;95;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 117307;Shannon Lynn Szabados;F;27;175;65;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
 117347;Miln Gbor Szab;M;23;183;76;Hungary;HUN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
@@ -4297,7 +4297,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 119535;Adrien Thaux;M;29;182;82;France;FRA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;NA
 119542;Marion Thees-Trott;F;29;168;58;Germany;GER;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;NA
 119937;Marielle Thompson;F;21;178;70;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Ski Cross;Gold
-119972;"\"Benjamin \"\"Ben\"\" Thomsen\"";M;26;174;80;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
+119972;Benjamin Ben Thomsen;M;26;174;80;Canada;CAN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Downhill;NA
 120048;Patrick Thoresen;M;30;182;92;Norway;NOR;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 120052;Sven Magnus Rickard Thorgren;M;19;172;70;Sweden;SWE;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
 120117;Mirabelle Thovex;F;22;167;60;France;FRA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Halfpipe;NA
@@ -4333,7 +4333,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 120764;Ayaka Toko;F;19;161;59;Japan;JPN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 120826;Ole Kristian Tollefsen;M;29;188;95;Norway;NOR;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 120860;Michiko Tomabechi;F;34;148;NA;Japan;JPN;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
-120892;"\"Curtis \"\"Curt\"\" Tomasevicz\"";M;33;185;100;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
+120892;Curtis Curt Tomasevicz;M;33;185;100;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;Bronze
 121033;Tong Jian;M;34;179;75;China-1;CHN;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Pairs;NA
 121071;Roope Tonteri;M;21;169;68;Finland;FIN;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Slopestyle;NA
 121227;Rebecca Torr;F;23;173;65;New Zealand;NZL;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;NA
@@ -4386,7 +4386,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 122500;Yekaterina Nikolayevna Tudegesheva;F;26;162;65;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Parallel Slalom;NA
 122550;Mark Jan Hendrik Tuitert;M;33;182;83;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,000 metres;NA
 122550;Mark Jan Hendrik Tuitert;M;33;182;83;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,500 metres;NA
-122648;"\"Minnamari \"\"Minttu\"\" Tuominen\"";F;23;165;70;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
+122648;Minnamari Minttu Tuominen;F;23;165;70;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 122826;Hannah Kaya Turski;F;25;165;58;Canada;CAN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Slopestyle;NA
 122862;Brianne Kay Tutt;F;21;175;66;Canada;CAN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;NA
 123002;Fyodor Anatolyevich Tyutin;M;30;188;95;Russia;RUS;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
@@ -4433,16 +4433,16 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 123930;Mitja Valeni;M;36;178;78;Slovenia;SLO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 123950;Benoit Valentin;M;21;175;68;France;FRA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 123999;Linda Vlimki;F;23;166;70;Finland;FIN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
-124007;"\"Lennard \"\"Len\"\" Vljas\"";M;25;198;91;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
-124007;"\"Lennard \"\"Len\"\" Vljas\"";M;25;198;91;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
+124007;Lennard Len Vljas;M;25;198;91;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
+124007;Lennard Len Vljas;M;25;198;91;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;NA
 124091;Chelsea Valois;F;26;177;75;Canada-2;CAN;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 124130;Lindsey Marie Van;F;29;160;57;United States;USA;2014;Winter;Sochi;Ski Jumping;Ski Jumping Women's Normal Hill, Individual;NA
-124180;"\"Charlotte Willemijn \"\"Lotte\"\" van Beek\"";F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
-124180;"\"Charlotte Willemijn \"\"Lotte\"\" van Beek\"";F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
-124180;"\"Charlotte Willemijn \"\"Lotte\"\" van Beek\"";F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;Bronze
-124180;"\"Charlotte Willemijn \"\"Lotte\"\" van Beek\"";F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);Gold
-124223;"\"Henderik Jan-Willem \"\"Edwin\"\" van Calker\"";M;34;188;100;Netherlands;NED;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
-124223;"\"Henderik Jan-Willem \"\"Edwin\"\" van Calker\"";M;34;188;100;Netherlands;NED;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
+124180;Charlotte Willemijn Lotte van Beek;F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
+124180;Charlotte Willemijn Lotte van Beek;F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
+124180;Charlotte Willemijn Lotte van Beek;F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;Bronze
+124180;Charlotte Willemijn Lotte van Beek;F;22;180;69;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);Gold
+124223;Henderik Jan-Willem Edwin van Calker;M;34;188;100;Netherlands;NED;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Two;NA
+124223;Henderik Jan-Willem Edwin van Calker;M;34;188;100;Netherlands;NED;2014;Winter;Sochi;Bobsleigh;Bobsleigh Men's Four;NA
 124364;Laurien van der Graaff;F;26;167;57;Switzerland;SUI;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
 124485;Dolf van der Wal;M;26;187;83;Netherlands;NED;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
 124489;Freek van der Wart;M;26;184;80;Netherlands;NED;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA
@@ -4482,7 +4482,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 126168;Koen Verweij;M;23;182;83;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,000 metres;NA
 126168;Koen Verweij;M;23;182;83;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 1,500 metres;Silver
 126168;Koen Verweij;M;23;182;83;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Men's Team Pursuit (8 laps);Gold
-126240;"\"Jessica Ann \"\"Jessie\"\" Vetter\"";F;28;173;70;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
+126240;Jessica Ann Jessie Vetter;F;28;173;70;United States;USA;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Silver
 126404;Matej Vidovi;M;20;193;92;Croatia;CRO;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Slalom;NA
 126557;Sandro Viletta;M;28;177;77;Switzerland;SUI;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Men's Combined;Gold
 126562;Helga Mara Vilhjlmsdttir;F;18;171;NA;Iceland;ISL;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Super G;NA
@@ -4570,11 +4570,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 127874;Ashley Elisabeth Wagner;F;22;160;52;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
 127962;Christoph Wahrsttter;M;24;177;81;Austria;AUT;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Ski Cross;NA
 127967;Nina Waidacher;F;21;170;65;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Bronze
-128002;"\"Jennifer Dorothy June \"\"Jenn\"\" Wakefield\"";F;24;175;77;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
+128002;Jennifer Dorothy June Jenn Wakefield;F;24;175;77;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
 128128;Paula Jean Walker;F;27;181;95;Great Britain;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 128142;Tristan Walker;M;22;185;88;Canada;CAN;2014;Winter;Sochi;Luge;Luge Mixed (Men)'s Doubles;NA
 128142;Tristan Walker;M;22;185;88;Canada;CAN;2014;Winter;Sochi;Luge;Luge Mixed Team Relay;NA
-128143;"\"Taylor Riley \"\"Ty\"\" Walker\"";F;16;157;61;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;NA
+128143;Taylor Riley Ty Walker;F;16;157;61;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Women's Slopestyle;NA
 128405;Wang Beixing;F;28;174;66;China;CHN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 500 metres;NA
 128405;Wang Beixing;F;28;174;66;China;CHN;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;NA
 128407;Wang Bingyu;F;29;164;65;China;CHN;2014;Winter;Sochi;Curling;Curling Women's Curling;NA
@@ -4620,8 +4620,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 129511;Andreas Wellinger;M;18;183;65;Germany;GER;2014;Winter;Sochi;Ski Jumping;Ski Jumping Men's Large Hill, Team;Gold
 129524;Beau-James Wells;M;18;165;50;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 129524;Beau-James Wells;M;18;165;50;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
-129535;"\"Josiah \"\"Jossi\"\" Wells\"";M;23;168;68;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
-129535;"\"Josiah \"\"Jossi\"\" Wells\"";M;23;168;68;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
+129535;Josiah Jossi Wells;M;23;168;68;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
+129535;Josiah Jossi Wells;M;23;168;68;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Slopestyle;NA
 129546;Samantha Wells;F;24;165;63;Australia;AUS;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;NA
 129555;Daniel Welser;M;30;180;86;Austria;AUT;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 129599;Daniel Wende;M;29;182;83;Germany-2;GER;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Pairs;NA
@@ -4643,9 +4643,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 129952;Jack Whelbourne;M;22;176;61;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,000 metres;NA
 129952;Jack Whelbourne;M;22;176;61;Great Britain;GBR;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 1,500 metres;NA
 130018;Shaun Roger White;M;27;175;70;United States;USA;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Halfpipe;NA
-130032;"\"Charles Allen \"\"Charlie\"\" White, Jr.\"";M;26;175;73;United States-1;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;Gold
-130032;"\"Charles Allen \"\"Charlie\"\" White, Jr.\"";M;26;175;73;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
-130076;"\"Mitchell Ryan \"\"Mitch\"\" Whitmore\"";M;24;175;76;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 500 metres;NA
+130032;Charles Allen Charlie White, Jr.;M;26;175;73;United States-1;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Ice Dancing;Gold
+130032;Charles Allen Charlie White, Jr.;M;26;175;73;United States;USA;2014;Winter;Sochi;Figure Skating;Figure Skating Mixed Team;Bronze
+130076;Mitchell Ryan Mitch Whitmore;M;24;175;76;United States;USA;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 500 metres;NA
 130146;Roman Wick;M;28;188;94;Switzerland;SUI;2014;Winter;Sochi;Ice Hockey;Ice Hockey Men's Ice Hockey;NA
 130148;Hayley Marie Wickenheiser;F;35;178;77;Canada;CAN;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;Gold
 130181;Heidi Widmer;F;22;175;63;Canada;CAN;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's Sprint;NA
@@ -4664,8 +4664,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 130357;Emma Christina Wikn;F;24;167;60;Sweden;SWE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 15 km Skiathlon;NA
 130357;Emma Christina Wikn;F;24;167;60;Sweden;SWE;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Women's 4 x 5 kilometres Relay;Gold
 130372;Emelie Sara Marianne Wikstrm;F;21;174;66;Sweden;SWE;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
-130402;"\"Victor Ivan \"\"Vic\"\" Wild\"";M;27;179;82;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;Gold
-130402;"\"Victor Ivan \"\"Vic\"\" Wild\"";M;27;179;82;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;Gold
+130402;Victor Ivan Vic Wild;M;27;179;82;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Giant Slalom;Gold
+130402;Victor Ivan Vic Wild;M;27;179;82;Russia;RUS;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;Gold
 130420;Jacqueline Wiles;F;21;170;70;United States;USA;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Downhill;NA
 130508;Anna Willcox-Silfverberg;F;21;170;60;New Zealand;NZL;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Slopestyle;NA
 130528;Elfje Willemsen;F;29;174;78;Belgium;BEL;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
@@ -4673,7 +4673,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 130605;Isadora Marie Williams;F;17;156;47;Brazil;BRA;2014;Winter;Sochi;Figure Skating;Figure Skating Women's Singles;NA
 130626;Lauryn Chenet Williams;F;30;160;67;United States-1;USA;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;Silver
 130722;Shane Williamson;M;18;176;67;Japan;JPN;2014;Winter;Sochi;Speed Skating;Speed Skating Men's 5,000 metres;NA
-130794;"\"Rebekah \"\"Bex\"\" Wilson\"";F;22;158;66;Great Britain;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
+130794;Rebekah Bex Wilson;F;22;158;66;Great Britain;GBR;2014;Winter;Sochi;Bobsleigh;Bobsleigh Women's Two;NA
 130796;Bradley Wilson;M;21;178;75;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Moguls;NA
 130938;Pernilla Margareta Stephanie Winberg;F;24;165;63;Sweden;SWE;2014;Winter;Sochi;Ice Hockey;Ice Hockey Women's Ice Hockey;NA
 130959;Dominik Windisch;M;24;180;70;Italy;ITA;2014;Winter;Sochi;Biathlon;Biathlon Men's 10 kilometres Sprint;NA
@@ -4715,11 +4715,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 131777;Wu Dajing;M;19;182;73;China;CHN;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 5,000 metres Relay;Bronze
 131879;Harald Wurm;M;29;178;71;Austria;AUT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Sprint;NA
 131879;Harald Wurm;M;29;178;71;Austria;AUT;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's Team Sprint;NA
-131897;"\"Irene Karlijn \"\"Ireen\"\" Wst\"";F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;Silver
-131897;"\"Irene Karlijn \"\"Ireen\"\" Wst\"";F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;Silver
-131897;"\"Irene Karlijn \"\"Ireen\"\" Wst\"";F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 3,000 metres;Gold
-131897;"\"Irene Karlijn \"\"Ireen\"\" Wst\"";F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 5,000 metres;Silver
-131897;"\"Irene Karlijn \"\"Ireen\"\" Wst\"";F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);Gold
+131897;Irene Karlijn Ireen Wst;F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,000 metres;Silver
+131897;Irene Karlijn Ireen Wst;F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 1,500 metres;Silver
+131897;Irene Karlijn Ireen Wst;F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 3,000 metres;Gold
+131897;Irene Karlijn Ireen Wst;F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's 5,000 metres;Silver
+131897;Irene Karlijn Ireen Wst;F;27;168;65;Netherlands;NED;2014;Winter;Sochi;Speed Skating;Speed Skating Women's Team Pursuit (6 laps);Gold
 131996;Xia Lina;F;26;160;60;China;CHN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Giant Slalom;NA
 131996;Xia Lina;F;26;160;60;China;CHN;2014;Winter;Sochi;Alpine Skiing;Alpine Skiing Women's Slalom;NA
 132076;Xu Mengtao;F;23;165;59;China;CHN;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Women's Aerials;Silver
@@ -4743,7 +4743,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 132600;Radoslav Yankov;M;24;190;85;Bulgaria;BUL;2014;Winter;Sochi;Snowboarding;Snowboarding Men's Parallel Slalom;NA
 132638;Dmitry Semyonovich Yaparov;M;28;186;86;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 15 kilometres;NA
 132638;Dmitry Semyonovich Yaparov;M;28;186;86;Russia;RUS;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 4 x 10 kilometres Relay;Silver
-132652;"\"Elizabeth Anne \"\"Lizzy\"\" Yarnold\"";F;25;172;78;Great Britain;GBR;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;Gold
+132652;Elizabeth Anne Lizzy Yarnold;F;25;172;78;Great Britain;GBR;2014;Winter;Sochi;Skeleton;Skeleton Women's Skeleton;Gold
 132692;Torin Yater-Wallace;M;18;175;70;United States;USA;2014;Winter;Sochi;Freestyle Skiing;Freestyle Skiing Men's Halfpipe;NA
 132773;Artur Yeghoyan;M;23;180;83;Armenia;ARM;2014;Winter;Sochi;Cross Country Skiing;Cross Country Skiing Men's 30 km Skiathlon;NA
 132818;Semyon Andreyevich Yelistratov;M;23;175;70;Russia;RUS;2014;Winter;Sochi;Short Track Speed Skating;Short Track Speed Skating Men's 500 metres;NA

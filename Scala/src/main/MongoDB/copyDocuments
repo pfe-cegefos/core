@@ -1,0 +1,12 @@
+function (sourceCollection, targetCollection, select) {
+         var count;
+          count = sourceCollection.find({}, select).count()
+          print("Copying " + count + " documents from " + sourceCollection + " to " + targetCollection);
+
+          sourceDocs = sourceCollection.find({}, select);
+          idsOfCopiedDocs = insertBatch(targetCollection, sourceDocs);
+
+          targetDocs = targetCollection.find({_id: {$in: idsOfCopiedDocs}});
+
+          print("Done!")
+     }

@@ -3,7 +3,7 @@ lazy val root = (project in file(".")).
     name := "PFE-JO",
     version := "1.1",
     scalaVersion := "2.11.11",
-    mainClass in Compile := Some("fr.cegefos.pfe.controller.ApplicationIngestion")
+    mainClass in Compile := Some("fr.cegefos.pfe.controller.ApplicationMongoDB")
   )
 
 libraryDependencies += "io.spray" %% "spray-json" % "1.3.4"
@@ -19,6 +19,9 @@ libraryDependencies += "org.apache.commons" % "commons-io" % "1.3.2"
 
 libraryDependencies += "com.databricks" % "spark-csv_2.10" % "1.4.0"
 libraryDependencies += "org.apache.commons" % "commons-csv" % "1.4"
+
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "1.1.0"
+libraryDependencies += "org.mongodb.spark" %% "mongo-spark-connector" % "1.1.0"
 
 assemblyMergeStrategy in assembly := {
   case PathList("org", "apache", xs @ _*) => MergeStrategy.last

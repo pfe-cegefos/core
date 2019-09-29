@@ -1,44 +1,50 @@
-/*package fr.cegefos.pfe.service
+package fr.cegefos.pfe.service
 
 import com.mongodb.spark.MongoSpark
+import org.apache.hadoop.fs.{FileStatus, FileSystem, Path}
 import org.apache.spark.rdd.RDD
-import org.apache.spark.sql.{Dataset, Row, SparkSession}
+import org.apache.spark.sql.{DataFrame, Dataset, Row, SQLContext}
 import org.bson.Document
-import org.apache.spark.sql.functions.max
 
-class MongoDBWriter(var sparkSession:SparkSession) {
+class MongoDBWriter(var sqlContext:SQLContext, var localFS:FileSystem) {
 
-  val INPUT_PATH = "src/main/resources/local/mongodb/"
+  def start(inputPath:String) {
+    //Copy data from hdfs to MongoDB
 
-  def start() {
+
+    //determine last games
+    val status: Array[FileStatus] = localFS.listStatus(new Path(inputPath))
+
+
+    val srcPath = status.foldLeft(new FileStatus())((a: FileStatus, b:FileStatus) =>
+      if (a.toString().compareTo(b.toString)>0) a else b
+    )
 
     //val df = sparkSession.read.format("CSV").option("header", true).option("sep", ";").load(INPUT_PATH)
-    val df = sparkSession.read.csv(INPUT_PATH)
+    val df: DataFrame = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("quoteMode","NONE").option("delimiter", ";").load(srcPath.getPath.toString)
 
-    copyToMongoDB(df, "","")
-  }
+    //filter on last games
+    //val lastGames: String = df.agg(max("games")).first.getString(0)
+    //val dfLastGames: DataFrame = df.filter("games = '" + lastGames +  "'")
 
-  /**
-  Copy data from hdfs to MongoDB
-    */
-  def copyToMongoDB(df:Dataset[Row], src:String, dest:String): Unit ={
-    val lastGames = df.agg(max("games")).first.getString(0)
+/*  //remove header
+    val skipableFirstRow: Row = dfLastGames.first()
+    val dfLastGamesWithoutHead:DataFrame = dfLastGames.filter(row => row != skipableFirstRow)
+*/
+    val lines: RDD[Row] = df.rdd
+    lines.mapPartitionsWithIndex {
+      (idx, iter) => if (idx == 0) iter.drop(1) else iter
+    }
 
-    val dfLastGames = df.filter("games = '" + lastGames +  "'")
-    val skipableFirstRow = dfLastGames.first()
-    val dfLastGamesWithoutHead = dfLastGames.filter(row => row != skipableFirstRow)
-
-    val lines: RDD[Row] = dfLastGamesWithoutHead.rdd
-
-    val players = lines
-                    .map(lines => lines
+    val players: RDD[Document] = lines
+                    .map(line => line
                                   .toString()
-                                  .replace(lastGames,"").replace(",]","").replace("[","")
-                                  .split(";")
+                                  .replace(",]","").replace("[","")
+                                  .split(",")
                         )
                     .map(line => {
                       val doc = new Document()
-                      doc.append("IDs", line(0))
+                      doc.append("ID", line(0))
                       doc.append("Name", line(1))
                       doc.append("Sex", if (line.length>2) line(2) else "")
                       doc.append("Age", if (line.length>3) line(3) else "")
@@ -55,16 +61,14 @@ class MongoDBWriter(var sparkSession:SparkSession) {
 
                       doc
                     })
-
+/*
     for (va <- players) {
       println(va)
     }
-
+*/
     //drop entire collection
-    MongoSpark.write(df.filter("games='0000-Summer'")).mode("overwrite").save();
+    MongoSpark.write(df.filter("ID=-1")).mode("overwrite").save()
 
     MongoSpark.save(players)
-
   }
 }
-*/
