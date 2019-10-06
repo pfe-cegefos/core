@@ -1,6 +1,6 @@
-/*
-package fr.cegefos.pfe.controller
 
+package fr.cegefos.pfe.controller
+/*
 import fr.cegefos.pfe.service.FileSpliter
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.FileSystem

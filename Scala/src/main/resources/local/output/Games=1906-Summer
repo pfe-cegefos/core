@@ -3,7 +3,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 508;Bernhard Abraham;M;NA;NA;NA;Germany;GER;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
 520;Sidney Solomon Abrahams;M;21;NA;NA;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 520;Sidney Solomon Abrahams;M;21;NA;NA;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
-1208;Ioannis Agrimis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+1208;Ioannis Agrimis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 1355;Henrik Aleksander Heikki hlman (-Pennola);M;26;NA;NA;Finland;FIN;1906;Summer;Athina;Athletics;Athletics Men's Pole Vault;NA
 1355;Henrik Aleksander Heikki hlman (-Pennola);M;26;NA;NA;Finland;FIN;1906;Summer;Athina;Athletics;Athletics Men's Shot Put;NA
 1355;Henrik Aleksander Heikki hlman (-Pennola);M;26;NA;NA;Finland;FIN;1906;Summer;Athina;Athletics;Athletics Men's Stone Throw;NA
@@ -23,7 +23,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 2757;Nikolaos Aliprantis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 2757;Nikolaos Aliprantis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
 3014;Dante Aloisi;M;NA;NA;NA;Roma;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-3068;Pavlos Alsanis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+3068;Pavlos Alsanis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 3454;Pantelis Amiras;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
 3618;Nikolaos Anagnostopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, One Hand;NA
 3618;Nikolaos Anagnostopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Shot Put;NA
@@ -78,14 +78,14 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 6831;Ernst Friedrich Bahnmeyer;M;17;NA;NA;Germany;GER;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;Silver
 7335;Ioannis Ballis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
 7335;Ioannis Ballis;M;NA;NA;NA;Greece-1;GRE;1906;Summer;Athina;Tennis;Tennis Men's Doubles;Silver
-7377;Demetrios Balourdos;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+7377;Demetrios Balourdos;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 7529;Georgios Banikas;M;17;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Pole Vault;NA
 7826;Maurice Charles Adolphe Bardonneau;M;20;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;Silver
 7826;Maurice Charles Adolphe Bardonneau;M;20;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 7826;Maurice Charles Adolphe Bardonneau;M;20;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;Silver
 7894;Nigel Chase Barker;M;23;NA;NA;Australia;AUS;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;Bronze
 7894;Nigel Chase Barker;M;23;NA;NA;Australia;AUS;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;Bronze
-8026;Georgios Barous;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+8026;Georgios Barous;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 8809;Henri Baur;M;33;NA;NA;Austria;AUT;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;NA
 8809;Henri Baur;M;33;NA;NA;Austria;AUT;1906;Summer;Athina;Wrestling;Wrestling Men's Heavyweight, Greco-Roman;Silver
 8809;Henri Baur;M;33;NA;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
@@ -99,7 +99,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 9430;Robert Sophus Daniel Behrens;M;21;NA;NA;Denmark;DEN;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;Bronze
 9693;Marc Bellin du Coteau;M;22;NA;NA;France;FRA;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 9693;Marc Bellin du Coteau;M;22;NA;NA;France;FRA;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;NA
-9730;E. Bellotti;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+9730;E. Bellotti;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
 9760;Spyridon Belokas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 10580;Johan Thure Bergvall;M;18;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 10673;Adolphe Bernard;M;35;NA;NA;Socit Nautique de Bayonne-2;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);NA
@@ -117,7 +117,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 12075;George Bernard Blake;M;27;167;62;Australia;AUS;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 12075;George Bernard Blake;M;27;167;62;Australia;AUS;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 12075;George Bernard Blake;M;27;167;62;Australia;AUS;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-12284;Nikolaos Blioziotis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+12284;Nikolaos Blioziotis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 12555;Otto Erich Friedrich Hugo Bock (Kramer-);M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 12555;Otto Erich Friedrich Hugo Bock (Kramer-);M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 12555;Otto Erich Friedrich Hugo Bock (Kramer-);M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
@@ -168,7 +168,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 15855;Martin Brustmann;M;20;NA;NA;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;NA
 16069;Charles von Buchwald;M;25;NA;NA;Denmark;DEN;1906;Summer;Athina;Football;Football Men's Football;Gold
 16290;Peder Harald Pedersen Bukdahl;M;22;NA;NA;Denmark;DEN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Silver
-16451;Angelo Buoni;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+16451;Angelo Buoni;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 17039;Oskar Wilhelm Bye;M;35;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
 17059;Homer Morrison Byington;M;26;NA;NA;United States;USA;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
 17059;Homer Morrison Byington;M;26;NA;NA;United States;USA;1906;Summer;Athina;Tennis;Tennis Men's Doubles;NA
@@ -218,7 +218,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 19928;Edwin James Gordon Charnaud;M;NA;NA;NA;Smyrna;GBR;1906;Summer;Athina;Football;Football Men's Football;Silver
 21451;Arnold Robertson Churchill;M;23;NA;NA;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 21451;Arnold Robertson Churchill;M;23;NA;NA;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
-21610;G. Cingottu;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+21610;G. Cingottu;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 21717;Francesco Civera;M;23;NA;NA;Barion/Bari-2;ITA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);Silver
 21721;Cino Civinini;M;NA;NA;NA;Pistoja/Firenze;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Bronze
 21753;Charles Clapier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Dueling Pistol Au Commandement, 25 metres;NA
@@ -253,7 +253,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 24004;Herbert Crowther;M;23;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
 24838;Edward Martin Dahl;M;19;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 24838;Edward Martin Dahl;M;19;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;Bronze
-24933;Demetrios Dais;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+24933;Demetrios Dais;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 25055;John Joseph Daly;M;26;187;83;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 25055;John Joseph Daly;M;26;187;83;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 25065;Hans Peter Ludvig Dam;M;22;NA;NA;Denmark;DEN;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;NA
@@ -305,7 +305,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 26951;Maxime Omer Mathieu Max Omer-Dcugis;M;23;NA;NA;France;FRA;1906;Summer;Athina;Tennis;Tennis Mixed Doubles;Gold
 26951;Maxime Omer Mathieu Max Omer-Dcugis;M;23;NA;NA;France;FRA;1906;Summer;Athina;Tennis;Tennis Men's Doubles;Gold
 27070;Nikolaos Dekavalas;M;NA;NA;NA;Athens-2;GRE;1906;Summer;Athina;Football;Football Men's Football;NA
-27070;Nikolaos Dekavalas;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+27070;Nikolaos Dekavalas;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 27195;Marcel Carlos Paul Gaston Delaplane (De la Plane-);M;24;NA;NA;France;FRA;1906;Summer;Athina;Rowing;Rowing Men's Single Sculls;Gold
 27195;Marcel Carlos Paul Gaston Delaplane (De la Plane-);M;24;NA;NA;Socit Nautique de la Basse Seine-1;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);Bronze
 27195;Marcel Carlos Paul Gaston Delaplane (De la Plane-);M;24;NA;NA;Socit Nautique de la Basse Seine-2;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
@@ -347,10 +347,10 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 28550;Georges Arthur Dillon-Kavanagh du Fertagh;M;33;NA;NA;France;FRA;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;Silver
 28550;Georges Arthur Dillon-Kavanagh du Fertagh;M;33;NA;NA;France;FRA;1906;Summer;Athina;Fencing;Fencing Men's epee, Team;Gold
 28550;Georges Arthur Dillon-Kavanagh du Fertagh;M;33;NA;NA;France;FRA;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
-28689;Stamatios Diomataras;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+28689;Stamatios Diomataras;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 28702;T. Dionysiotis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 28995;Ren Dobrinovitz;M;NA;NA;NA;Belgium;BEL;1906;Summer;Athina;Wrestling;Wrestling Men's Lightweight, Greco-Roman;NA
-29148;Ioannis Dolas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+29148;Ioannis Dolas;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 29451;Jetze Doorman;M;24;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
 29451;Jetze Doorman;M;24;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
 29451;Jetze Doorman;M;24;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's epee, Team;NA
@@ -361,8 +361,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 29549;Wilhelm Willy Drr;M;24;182;81;Germany;GER;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Gold
 29549;Wilhelm Willy Drr;M;24;182;81;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw;NA
 29549;Wilhelm Willy Drr;M;24;182;81;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
-29905;Aristidis Drakakis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-30048;Andreas Drivas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+29905;Aristidis Drakakis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+30048;Andreas Drivas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 30084;Nikolaos Drosinos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 30085;Ioannis Drosopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Single Shot, 16 metres;NA
 30289;Marcel Dubois;M;19;NA;NA;Belgium;BEL;1906;Summer;Athina;Wrestling;Wrestling Men's Heavyweight, Greco-Roman;Bronze
@@ -409,9 +409,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 33417;Evangelos Evangelidis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Dueling Pistol Au Vise 20 metres;NA
 33557;Raymond Clarence Ray Ewry;M;32;185;79;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Standing High Jump;Gold
 33557;Raymond Clarence Ray Ewry;M;32;185;79;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;Gold
-33839;Vasilios Falangas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+33839;Vasilios Falangas;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 33851;Osvald Anathon Thygesen Falch;M;21;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
-34191;Ioannis Fasilis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+34191;Ioannis Fasilis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 34282;Maurice Faure;M;46;168;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
 34282;Maurice Faure;M;46;168;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;NA
 34282;Maurice Faure;M;46;168;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres;NA
@@ -429,19 +429,19 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 35152;Emil Fredrik Fick;M;42;NA;NA;Sweden;SWE;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
 35152;Emil Fredrik Fick;M;42;NA;NA;Sweden;SWE;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
 35161;Giacinto Fidani;M;NA;NA;NA;Italy;ITA;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
-35339;Nikolaos Filippidis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+35339;Nikolaos Filippidis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 35683;Kristian Adolf Fjerdingen;M;21;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
 36167;Emilio Fontanella;M;24;NA;NA;Bucintoro Venezia-1;ITA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);Gold
 36167;Emilio Fontanella;M;24;NA;NA;Bucintoro Venezia;ITA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);Gold
 36167;Emilio Fontanella;M;24;NA;NA;Bucintoro Venezia;ITA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;Gold
-36291;Angelo Fornaciari;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+36291;Angelo Fornaciari;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
 36325;Joseph Joe Forshaw, Jr.;M;24;184;74;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 36454;G. Fotakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 36462;Alfr. Fotiadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Dueling Pistol Au Vise 20 metres;NA
 36462;Alfr. Fotiadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Dueling Pistol Au Commandement, 25 metres;NA
 36464;Konstantinos Fotiadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
 36464;Konstantinos Fotiadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual, Three Hits;NA
-36469;Nikolaos Fotinakis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+36469;Nikolaos Fotinakis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;Silver
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres;Gold
@@ -454,7 +454,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Trap, Single Shot, 16 metres;NA
 36489;Jean Fouconnier;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Trap, Double Shot, 14 metres;NA
-36541;Georgios Fouskas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+36541;Georgios Fouskas;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 36547;Robert Arthur Bob Fowler;M;23;170;57;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 36766;William Gottlieb (Wilhelm-) Frank;M;27;178;61;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 36766;William Gottlieb (Wilhelm-) Frank;M;27;178;61;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Marathon;Bronze
@@ -466,9 +466,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 36915;Marcel Gaston Charles Frbourg;M;14;NA;NA;Socit Nautique de la Basse Seine-2;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
 36915;Marcel Gaston Charles Frbourg;M;14;NA;NA;Socit Nautique de la Basse Seine-1;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;Silver
 36941;Holger Frederiksen;M;25;NA;NA;Denmark;DEN;1906;Summer;Athina;Football;Football Men's Football;Gold
-36948;L. Frediani;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+36948;L. Frediani;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 36957;Carl Yngvar Fredriksen;M;19;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
-37101;Petros Freskalakis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+37101;Petros Freskalakis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 37204;Hugo Morris Friend;M;23;187;84;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 110 metres Hurdles;NA
 37204;Hugo Morris Friend;M;23;187;84;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;Bronze
 37204;Hugo Morris Friend;M;23;187;84;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
@@ -479,14 +479,14 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 39535;Nikolaos P. Georgantas;M;26;185;81;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw;Silver
 39535;Nikolaos P. Georgantas;M;26;185;81;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;Silver
 39536;Georgios Georgantopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
-39538;Ioannis Georgas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+39538;Ioannis Georgas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 39588;Ioannis Georgiadis;M;30;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
 39588;Ioannis Georgiadis;M;30;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's epee, Team;NA
 39588;Ioannis Georgiadis;M;30;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;Gold
 39588;Ioannis Georgiadis;M;30;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Team;Silver
 39589;Theodoros Georgiadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, One Hand;NA
 39638;Georgios Georgitseas;M;NA;NA;NA;Peiraikos Syndesmos-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
-39783;Ezio Germignani;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+39783;Ezio Germignani;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 39786;Marie Claude Maurice Germot;M;23;NA;NA;France;FRA;1906;Summer;Athina;Tennis;Tennis Men's Singles;Silver
 39786;Marie Claude Maurice Germot;M;23;NA;NA;France;FRA;1906;Summer;Athina;Tennis;Tennis Men's Doubles;Gold
 39796;Georgios Gerontakis;M;NA;NA;NA;Athens-2;GRE;1906;Summer;Athina;Football;Football Men's Football;NA
@@ -516,13 +516,13 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 42237;Frigyes Grf;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
 42237;Frigyes Grf;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 42237;Frigyes Grf;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-42255;Augusto Graffigna;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+42255;Augusto Graffigna;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 42382;Erik Gustaf Granfelt;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Bronze
 43105;Andreas Gustaf Grnberger;M;23;NA;NA;Sweden;SWE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Bronze
-43231;Demetrios Grous;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+43231;Demetrios Grous;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 43357;Alfred Grtter;M;45;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Three Positions, 300 metres, Team;Gold
 43357;Alfred Grtter;M;45;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Any Position, 300 metres;NA
-43371;Ioannis Grypaios;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+43371;Ioannis Grypaios;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 43489;Mario Gubiani;M;NA;NA;NA;Italy;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
 43489;Mario Gubiani;M;NA;NA;NA;Italy;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 43489;Mario Gubiani;M;NA;NA;NA;Roma;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
@@ -646,11 +646,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 56204;Georges Juery;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;NA
 56257;Sigfrid Harald Alexander Julin;M;16;NA;NA;Sweden;SWE;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;NA
 56257;Sigfrid Harald Alexander Julin;M;16;NA;NA;Sweden;SWE;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;NA
-56704;Ioannis Kaisarefs;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+56704;Ioannis Kaisarefs;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 56757;Gyula Kakas (Kokas);M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
 56757;Gyula Kakas (Kokas);M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 56757;Gyula Kakas (Kokas);M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-56780;Demetrios Kakousis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+56780;Demetrios Kakousis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 56781;Periklis Kakousis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, Two Hands;NA
 56781;Periklis Kakousis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
 56791;Al. Kalafatis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
@@ -661,24 +661,24 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 56975;Carl Kaltenbach;M;23;184;77;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw;NA
 56975;Carl Kaltenbach;M;23;184;77;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
 56975;Carl Kaltenbach;M;23;184;77;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
-56994;Athanasios Kalyvas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-57146;Evangelos Kanakaris;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+56994;Athanasios Kalyvas;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+57146;Evangelos Kanakaris;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 57294;Dimitrios Kantzias;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 57294;Dimitrios Kantzias;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 57294;Dimitrios Kantzias;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-57423;Nikolaos Karagiannis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-57441;Konstantinos Karakatsanis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+57423;Nikolaos Karagiannis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+57441;Konstantinos Karakatsanis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 57467;Antonios Karangonidis;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
-57468;Pavlos Karangonidis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+57468;Pavlos Karangonidis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 57499;Anastasios Karatzas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Any Position, 300 metres;NA
 57499;Anastasios Karatzas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
 57688;Menelaos Karotzieris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;NA
-57739;Nikolaos Karsouvas;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+57739;Nikolaos Karsouvas;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 57768;Konstantinos Karvelas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 57780;Nikolaos Karydias;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
-57966;Vasilios Katekhis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-58028;Mikhail Katsoulis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-58401;Konstantinos Kefalas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+57966;Vasilios Katekhis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+58028;Mikhail Katsoulis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+58401;Konstantinos Kefalas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 58857;Herbert William Bert Kerrigan;M;27;175;59;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's High Jump;Bronze
 58857;Herbert William Bert Kerrigan;M;27;175;59;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Pole Vault;NA
 58857;Herbert William Bert Kerrigan;M;27;175;59;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
@@ -686,14 +686,14 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 58930;Jean Baptiste August Guus Kessler;M;17;NA;NA;Netherlands;NED;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
 58966;Ioannis Ketseas;M;18;NA;NA;Greece-3;GRE;1906;Summer;Athina;Tennis;Tennis Men's Doubles;NA
 58985;Julius Keyl;M;28;170;59;Germany;GER;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-59051;Nikolaos Khalas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-59053;Evangelos Khaldeos;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-59104;Argos Khalykiopoulos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+59051;Nikolaos Khalas;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+59053;Evangelos Khaldeos;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+59104;Argos Khalykiopoulos;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 59187;Alexandros Kharalambopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
 59187;Alexandros Kharalambopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
-59218;Georgios Khasapis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+59218;Georgios Khasapis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 59393;Georgios Khoudoumadis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-59409;Dionysios Khristeas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+59409;Dionysios Khristeas;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 59429;Stefanos Khristopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Heavyweight, Greco-Roman;NA
 59429;Stefanos Khristopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, One Hand;NA
 59429;Stefanos Khristopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, Two Hands;NA
@@ -715,9 +715,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 62552;Aristidis Konstantinidis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 62552;Aristidis Konstantinidis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
 62751;Triantafyllos Kordogiannis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Team;Silver
-62752;A. Kordonis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+62752;A. Kordonis;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 63033;V. Koskoris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-63236;I. Kottas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+63236;I. Kottas;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 63280;Dimitrios Koukoulas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
 63292;Stefanos Kountouriotis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Pole Vault;NA
 63293;Dimitrios Kountouris;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);NA
@@ -725,7 +725,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 63297;Alexandros Kouris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres Walk;NA
 63306;Ioannis Kousoulidis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 63315;Anastasios Koutoulakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-63316;Khristos Koutoulangas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+63316;Khristos Koutoulangas;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 63407;Nndor Kovcs;M;24;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
 63407;Nndor Kovcs;M;24;NA;NA;Hungary;HUN;1906;Summer;Athina;Athletics;Athletics Men's 110 metres Hurdles;NA
 63552;Konstantinos Kozanitas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;Bronze
@@ -759,13 +759,13 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 65496;Felix Kwieton;M;28;NA;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 65496;Felix Kwieton;M;28;NA;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 65496;Felix Kwieton;M;28;NA;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-65553;Pavlos Kypraios;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+65553;Pavlos Kypraios;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 65559;G. Kyrieris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
 65563;Ioannis Kyrou;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
 65589;Percy Charles La Fontaine;M;NA;NA;NA;Smyrna;GBR;1906;Summer;Athina;Football;Football Men's Football;Silver
 65776;Vlastimil Lada-Szavsk;M;20;NA;NA;Bohemia;BOH;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
-65821;Ioannis Lafiotis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
-65822;Athanasios Lafis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+65821;Ioannis Lafiotis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+65822;Athanasios Lafis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 65890;Khristos Lagos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 65931;Leopold Lahner;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;NA
 65931;Leopold Lahner;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's Shot Put;NA
@@ -806,7 +806,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 68647;Eric Otto Valdemar Lemming;M;26;190;88;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
 68647;Eric Otto Valdemar Lemming;M;26;190;88;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;Gold
 68647;Eric Otto Valdemar Lemming;M;26;190;88;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);Bronze
-68663;S. Lemonis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+68663;S. Lemonis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 68771;L. Leon;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
 68771;L. Leon;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;NA
 68822;Vasilios Leontopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;NA
@@ -834,11 +834,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 70774;Harald Axel Fredrik Ljung;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 70774;Harald Axel Fredrik Ljung;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's 110 metres Hurdles;NA
 70774;Harald Axel Fredrik Ljung;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
-71173;P. Lomvardos;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
-71174;Spyridon Spyros Lomvardos;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+71173;P. Lomvardos;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+71174;Spyridon Spyros Lomvardos;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 71513;Jens Lorentzen;M;NA;NA;NA;Denmark;DEN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Silver
 71516;Valdemar Edvard Simon Lorentzen;M;26;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-71683;Ioannis Loukas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+71683;Ioannis Loukas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 71882;Niels Bernhard Lw;M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 71882;Niels Bernhard Lw;M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
 71882;Niels Bernhard Lw;M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
@@ -868,15 +868,15 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 74138;Arthur Mallwitz;M;25;NA;NA;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
 74291;Khristos Manarolakis;M;NA;NA;NA;Crete;CRT;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 74425;Panagiotis Manginas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres;NA
-74455;Anastasios Maniatis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+74455;Anastasios Maniatis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 74458;Carl Hans Theodor Manicus-Hansen;M;28;NA;NA;Denmark;DEN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Silver
 74602;M. Mantakas;M;NA;NA;NA;Crete;CRT;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 74715;G. Maranngoudakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 74897;Nikolaos Mardelis;M;NA;NA;NA;Omilos Ereton Smyrnis;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
-75098;Ilias Marinos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+75098;Ilias Marinos;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 75099;Sofia Marinou;F;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Tennis;Tennis Women's Singles;Silver
 75099;Sofia Marinou;F;NA;NA;NA;Greece-1;GRE;1906;Summer;Athina;Tennis;Tennis Mixed Doubles;Silver
-75284;Georgios Maroulis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+75284;Georgios Maroulis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 75575;Hermann Martin;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
 75575;Hermann Martin;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;NA
 75575;Hermann Martin;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres;Bronze
@@ -905,8 +905,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 76672;Thomas John Johnnie Matthews;M;21;177;67;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;Gold
 76672;Thomas John Johnnie Matthews;M;21;177;67;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 76672;Thomas John Johnnie Matthews;M;21;177;67;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
-76866;Antonio Mautrere;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
-76874;Nikolaos Mavrakis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+76866;Antonio Mautrere;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+76874;Nikolaos Mavrakis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 76882;Nikolaos Mavrogenis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 76882;Nikolaos Mavrogenis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;NA
 76886;Frangiskos D. Mavrommatis;M;36;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
@@ -918,7 +918,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 76886;Frangiskos D. Mavrommatis;M;36;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Any Position, 300 metres;NA
 76886;Frangiskos D. Mavrommatis;M;36;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres;NA
 76886;Frangiskos D. Mavrommatis;M;36;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
-76888;Dimitrios Mavronas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+76888;Dimitrios Mavronas;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 76988;Leopold Mayer;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
 76988;Leopold Mayer;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;NA
 77147;Quintilio Mazzoncini;M;NA;NA;NA;Pistoja/Firenze;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Bronze
@@ -930,7 +930,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 78322;Otto Meixner;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's 333 metres Time Trial;NA
 78322;Otto Meixner;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;NA
 78322;Otto Meixner;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
-78369;Ioannis Melakhroinos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+78369;Ioannis Melakhroinos;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 78465;Hjalmar Stefanus Mellander;M;25;183;80;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;NA
 78465;Hjalmar Stefanus Mellander;M;25;183;80;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
 78465;Hjalmar Stefanus Mellander;M;25;183;80;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
@@ -943,7 +943,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 78738;Henri Menjou;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's 333 metres Time Trial;Bronze
 78738;Henri Menjou;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 78738;Henri Menjou;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
-78747;F. Mennella;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+78747;F. Mennella;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 78910;Georgios Merkouris;M;NA;NA;NA;Athens-2;GRE;1906;Summer;Athina;Football;Football Men's Football;NA
 78927;Gerald Eustace Merlin;M;21;NA;NA;Great Britain;GBR;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
 78927;Gerald Eustace Merlin;M;21;NA;NA;Great Britain;GBR;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;NA
@@ -966,7 +966,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 78929;Sidney Louis Walter Merlin;M;49;NA;NA;Great Britain;GBR;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
 78929;Sidney Louis Walter Merlin;M;49;NA;NA;Great Britain;GBR;1906;Summer;Athina;Shooting;Shooting Men's Trap, Single Shot, 16 metres;Bronze
 78929;Sidney Louis Walter Merlin;M;49;NA;NA;Great Britain;GBR;1906;Summer;Athina;Shooting;Shooting Men's Trap, Double Shot, 14 metres;Gold
-79057;S. Messina;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+79057;S. Messina;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 79089;Lrnt Mszros;M;22;NA;NA;Hungary;HUN;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
 79089;Lrnt Mszros;M;22;NA;NA;Hungary;HUN;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
 79089;Lrnt Mszros;M;22;NA;NA;Hungary;HUN;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
@@ -980,7 +980,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 79098;Anastasios Metaxas;M;44;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Any Position, 300 metres;NA
 79098;Anastasios Metaxas;M;44;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Single Shot, 16 metres;NA
 79098;Anastasios Metaxas;M;44;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Double Shot, 14 metres;Silver
-79175;Petros Mexis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+79175;Petros Mexis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 79202;Ernst Meyer;M;NA;NA;NA;Switzerland;SUI;1906;Summer;Athina;Cycling;Cycling Men's Sprint;NA
 79202;Ernst Meyer;M;NA;NA;NA;Switzerland;SUI;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 79202;Ernst Meyer;M;NA;NA;NA;Switzerland;SUI;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
@@ -993,13 +993,13 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 79237;Marcel Meyer de Stadelhofen;M;28;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres;NA
 79237;Marcel Meyer de Stadelhofen;M;28;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
 79415;Franco Micheli;M;NA;NA;NA;Italy;ITA;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
-79627;Isidoros Mikhas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+79627;Isidoros Mikhas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 79659;Dimitrios Mikhitsopoulos;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
-79736;Ioannis Milakas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+79736;Ioannis Milakas;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 80013;Xenofon Milonakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 80013;Xenofon Milonakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-80014;Argos Milonas;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
-80359;Konstantinos Misonginis;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+80014;Argos Milonas;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+80359;Konstantinos Misonginis;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 80987;Cyril Mohr;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Fencing;Fencing Men's epee, Team;Gold
 81163;Henri Molini;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Athletics;Athletics Men's 110 metres Hurdles;NA
 81163;Henri Molini;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
@@ -1016,7 +1016,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 82438;Georgios Moskhakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 82594;Fay R. Moulton;M;30;175;70;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;Silver
 82594;Fay R. Moulton;M;30;175;70;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;NA
-82614;Mikhail Mouratis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+82614;Mikhail Mouratis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 82624;Nikolaos Mourmouris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 82624;Nikolaos Mourmouris;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 82747;John Ludvig Mller (Larsen-);M;40;NA;NA;Norway;NOR;1906;Summer;Athina;Shooting;Shooting Men's Free Rifle, Three Positions, 300 metres, Team;Silver
@@ -1046,12 +1046,12 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 86030;Niels Christian Oscar Nielsen (-Nrland);M;23;NA;NA;Denmark;DEN;1906;Summer;Athina;Football;Football Men's Football;Gold
 86143;Isidor Gadar Jack Niflot;M;25;NA;NA;United States;USA;1906;Summer;Athina;Wrestling;Wrestling Men's Lightweight, Greco-Roman;NA
 86252;Georgios Nikolakis;M;NA;NA;NA;Peiraikos Syndesmos-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
-86282;Georgios Nikoloutsos;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-86471;Konstantinos Niotis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+86282;Georgios Nikoloutsos;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+86471;Konstantinos Niotis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 86798;M. Nomikos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
 86799;Parmenios Nomikos;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
 86799;Parmenios Nomikos;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
-86893;Alphonso Nordio;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+86893;Alphonso Nordio;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 86919;Bror Charles Norelius;M;24;NA;NA;Sweden;SWE;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
 86919;Bror Charles Norelius;M;24;NA;NA;Sweden;SWE;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;NA
 86942;Karl Axel Patrik Norling;M;22;178;NA;Sweden;SWE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Bronze
@@ -1059,11 +1059,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 87884;Peter O'Connor;M;33;186;66;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 87884;Peter O'Connor;M;33;186;66;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;Silver
 87884;Peter O'Connor;M;33;186;66;Great Britain;GBR;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;Gold
-87982;P. Oddone;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+87982;P. Oddone;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 88295;Carl Ohms;M;NA;NA;NA;Germany;GER;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
 88295;Carl Ohms;M;NA;NA;NA;Germany;GER;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
 88295;Carl Ohms;M;NA;NA;NA;Germany;GER;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-88330;Evangelos Oikonomou;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+88330;Evangelos Oikonomou;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 88467;Simon Okker;M;24;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
 88868;Frithjof Olsen;M;22;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
 88899;Ole Tobias Olsen;M;27;NA;NA;Norway;NOR;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 20 metres;NA
@@ -1097,7 +1097,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 89904;Hannibal Nissen stergaard;M;30;NA;NA;Dansk Idrts Forbund;DEN;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
 90574;Pericle Pagliani;M;23;NA;NA;Italy;ITA;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 90574;Pericle Pagliani;M;23;NA;NA;Italy;ITA;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
-90586;Konstantinos Pagoulatos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+90586;Konstantinos Pagoulatos;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 90714;Themistoklis Palaiologos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;NA
 90960;Ioannis Panagoulopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 3,000 metres Walk;NA
 91122;Konstantinos Panteleskos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's 400 metres Freestyle;NA
@@ -1110,7 +1110,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 91211;Vasilios Papageorgiou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw;NA
 91211;Vasilios Papageorgiou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
 91211;Vasilios Papageorgiou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
-91215;Konstantinos Papagiannoulis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+91215;Konstantinos Papagiannoulis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 91222;Georgios Papakhristou;M;NA;NA;NA;Omas Helliniki P. S.;GRE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Silver
 91222;Georgios Papakhristou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Stone Throw;NA
 91222;Georgios Papakhristou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw;NA
@@ -1119,8 +1119,8 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 91244;Ioannis Papapanagiotou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;NA
 91244;Ioannis Papapanagiotou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres;NA
 91244;Ioannis Papapanagiotou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 20 metres;NA
-91244;Ioannis Papapanagiotou;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-91256;Georgios Papazis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+91244;Ioannis Papapanagiotou;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+91256;Georgios Papazis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 91259;Vahram Hepet S. Papazyan;M;13;173;71;Turkey;TUR;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;NA
 91259;Vahram Hepet S. Papazyan;M;13;173;71;Turkey;TUR;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 91263;Max Pape;M;NA;NA;NA;Germany;GER;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
@@ -1128,7 +1128,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 91276;Jean Papot;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 91354;P. Paraskevopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Diving;Diving Men's Platform;NA
 91354;P. Paraskevopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;NA
-91358;Emilios Paravolos;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+91358;Emilios Paravolos;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 91750;E. Parousis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
 91788;Khristos Parsalis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;NA
 91788;Khristos Parsalis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
@@ -1153,7 +1153,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 93070;Nikolaos Pentsikis;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
 93437;Ioannis Peridis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Single Shot, 16 metres;Silver
 93437;Ioannis Peridis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Double Shot, 14 metres;NA
-93443;Konstantinos Perimenis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+93443;Konstantinos Perimenis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 93848;Hans Frederik Aage Petersen;M;22;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 93848;Hans Frederik Aage Petersen;M;22;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;NA
 93848;Hans Frederik Aage Petersen;M;22;NA;NA;Denmark;DEN;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
@@ -1184,19 +1184,19 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 94201;Petros Petsas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Lightweight, Greco-Roman;NA
 94205;William James Billy Pett;M;32;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 94205;William James Billy Pett;M;32;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;Gold
-94539;Demetrios Piaditis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
-94692;F. Pieraccini;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+94539;Demetrios Piaditis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+94692;F. Pieraccini;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 94765;Dorando Pietri;M;20;NA;NA;Italy;ITA;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 94865;Paul Henry Pilgrim;M;22;180;75;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;Gold
 94865;Paul Henry Pilgrim;M;22;180;75;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;Gold
-94894;Ioannis Pilouris;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+94894;Ioannis Pilouris;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 94945;Nikolaos Pindos;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
 95205;Pissi;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
 95205;Pissi;M;NA;NA;NA;France;FRA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around, 5 Events;NA
-95243;Antonios Pitsilos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+95243;Antonios Pitsilos;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 95250;Arthur Pitt-Marson;M;NA;NA;NA;Egypt;EGY;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 95250;Arthur Pitt-Marson;M;NA;NA;NA;Egypt;EGY;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-95298;G. Pizzo;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+95298;G. Pizzo;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 95688;Bohuslav Pohl-Polensk;M;NA;NA;NA;Bohemia;BOH;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 95688;Bohuslav Pohl-Polensk;M;NA;NA;NA;Bohemia;BOH;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;NA
 95782;Alexandros Polakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Gymnastics;Gymnastics Men's Individual All-Around;NA
@@ -1212,7 +1212,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 97337;Dimitrios Psaltopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Heavyweight, Greco-Roman;NA
 97349;Theofilakos Psiliakos;M;NA;NA;NA;Royal Club Nautique de Gand;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);NA
 97349;Theofilakos Psiliakos;M;NA;NA;NA;Royal Club Nautique de Gand;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);Silver
-97363;Petros Pterneas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+97363;Petros Pterneas;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 97440;Konrad Puhrer;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 97440;Konrad Puhrer;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's Sprint;NA
 97440;Konrad Puhrer;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's 333 metres Time Trial;NA
@@ -1226,7 +1226,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 98435;Ioannis Raisis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's epee, Masters, Individual;Bronze
 98435;Ioannis Raisis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Masters, Individual;Silver
 98610;Henry Andreas Rambusch;M;24;NA;NA;Denmark;DEN;1906;Summer;Athina;Football;Football Men's Football;Gold
-98829;Sebastiano Randazzo;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+98829;Sebastiano Randazzo;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 98855;Aristidis Rangavis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;Bronze
 98855;Aristidis Rangavis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 50 metres;Bronze
 98855;Aristidis Rangavis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres;NA
@@ -1262,7 +1262,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 100476;Louis Marcel Richardet;M;41;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres;Silver
 100476;Louis Marcel Richardet;M;41;NA;NA;Switzerland;SUI;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;Gold
 100604;August Herman Gerlach Richter;M;18;NA;NA;Sweden;SWE;1906;Summer;Athina;Diving;Diving Men's Platform;NA
-100910;D. Ringas;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+100910;D. Ringas;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 101078;Wilhelm Ritzenhoff;M;27;177;80;Germany;GER;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Gold
 101078;Wilhelm Ritzenhoff;M;27;177;80;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 101078;Wilhelm Ritzenhoff;M;27;177;80;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
@@ -1282,11 +1282,11 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 102425;Gunnar Vilhelm Rnstrm;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 102425;Gunnar Vilhelm Rnstrm;M;22;NA;NA;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
 102608;Ernst Einar Rosengren;M;21;NA;NA;Sweden;SWE;1906;Summer;Athina;Diving;Diving Men's Platform;NA
-102747;E. Rossi;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+102747;E. Rossi;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 102771;Venceslao Rossi;M;NA;NA;NA;Roma;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
 102773;Mikhail D. Rossidis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 103134;Thorleiv Bugge Rhn;M;24;NA;NA;Norway;NOR;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;Gold
-103349;Alberto Ruggia;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+103349;Alberto Ruggia;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 103493;Johannes Runge;M;28;185;75;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;NA
 103493;Johannes Runge;M;28;185;75;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;NA
 103493;Johannes Runge;M;28;185;75;Germany;GER;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
@@ -1295,7 +1295,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 103562;Arthur Rushen;M;NA;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;Gold
 103562;Arthur Rushen;M;NA;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 103562;Arthur Rushen;M;NA;NA;NA;Great Britain;GBR;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
-103644;Giuseppe Russo;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+103644;Giuseppe Russo;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
 104554;Menelaos Sakorafos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
 104554;Menelaos Sakorafos;M;NA;NA;NA;Nautikos Omilos-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
 104554;Menelaos Sakorafos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Team;Silver
@@ -1307,7 +1307,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 105795;Georgios Saridakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres Walk;NA
 105795;Georgios Saridakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 3,000 metres Walk;Bronze
 105796;Ioannis Saridakis;M;NA;NA;NA;Thessalonki-1;GRE;1906;Summer;Athina;Football;Football Men's Football;Bronze
-105867;Angelo Sartini;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+105867;Angelo Sartini;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 106083;Otto Satzinger;M;27;NA;NA;Austria;AUT;1906;Summer;Athina;Diving;Diving Men's Platform;Bronze
 106112;Emanuel Andreas Gottfred Saugman;M;27;NA;NA;Dansk Idrts Forbund;DEN;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);NA
 106112;Emanuel Andreas Gottfred Saugman;M;27;NA;NA;Dansk Idrts Forbund;DEN;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
@@ -1394,7 +1394,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 112718;Vilhelm Bruno Sderstrm;M;24;184;78;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's High Jump;NA
 112718;Vilhelm Bruno Sderstrm;M;24;184;78;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Pole Vault;Silver
 112718;Vilhelm Bruno Sderstrm;M;24;184;78;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;Bronze
-112827;Mikhail Sokos;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+112827;Mikhail Sokos;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 112856;Franz Solar;M;NA;182;NA;Austria;AUT;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;NA
 112856;Franz Solar;M;NA;182;NA;Austria;AUT;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;NA
 112856;Franz Solar;M;NA;182;NA;Austria;AUT;1906;Summer;Athina;Athletics;Athletics Men's Shot Put;NA
@@ -1409,9 +1409,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 113401;Frantiek Souek;M;NA;NA;NA;Bohemia;BOH;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
 113401;Frantiek Souek;M;NA;NA;NA;Bohemia;BOH;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
 113436;Georgios Soulis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
-113451;Demetrios Souranis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
+113451;Demetrios Souranis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Bronze
 113452;Pierre Edouard Martin Sourb;M;22;NA;NA;Socit Nautique de Bayonne-2;FRA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;Bronze
-113641;Aristidis Spalieris;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+113641;Aristidis Spalieris;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 113777;Joseph Whittelsey Spencer;M;26;NA;NA;United States;USA;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
 113777;Joseph Whittelsey Spencer;M;26;NA;NA;United States;USA;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;NA
 113818;Konstantinos Spetsiotis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres Walk;Bronze
@@ -1431,13 +1431,13 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 114206;Em. Vasileios Stais;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Shooting;Shooting Men's Trap, Double Shot, 14 metres;NA
 114256;Dimitrios Stamou;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 114257;G. Stamoulis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-114542;Anastasios Stavrianos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+114542;Anastasios Stavrianos;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 114769;Josef Steinbach;M;27;177;114;Austria;AUT;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;NA
 114769;Josef Steinbach;M;27;177;114;Austria;AUT;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, One Hand;Gold
 114769;Josef Steinbach;M;27;177;114;Austria;AUT;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, Two Hands;Silver
 114854;Axel Harald Steinthal;M;36;NA;NA;Dansk Idrts Forbund;DEN;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
-114877;Xenofon Stellas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-115017;Nikolaos Stergiou;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+114877;Xenofon Stellas;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+115017;Nikolaos Stergiou;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
 115543;Vasilios Stournaras;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 100 metres;NA
 115543;Vasilios Stournaras;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Long Jump;NA
 115543;Vasilios Stournaras;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Triple Jump;NA
@@ -1476,9 +1476,9 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 117631;Vilmos Szcs;M;14;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
 117631;Vilmos Szcs;M;14;NA;NA;Hungary;HUN;1906;Summer;Athina;Gymnastics;Gymnastics Men's Rope Climbing;NA
 118253;Konstantinos Tamvakos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
-118471;Giovanni Battista Tanio;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
-118524;R. Taormina;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
-118579;G. Tarantino;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+118471;Giovanni Battista Tanio;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+118524;R. Taormina;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+118579;G. Tarantino;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
 118890;Henry Taylor;M;21;165;66;Great Britain;GBR;1906;Summer;Athina;Swimming;Swimming Men's 400 metres Freestyle;Silver
 118890;Henry Taylor;M;21;165;66;Great Britain;GBR;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;Gold
 118890;Henry Taylor;M;21;165;66;Great Britain;GBR;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;Bronze
@@ -1517,7 +1517,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 120636;Adolf Tobler;M;NA;NA;NA;Switzerland;SUI;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 120710;Dimitrios Spiros Tofalos;M;22;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, One Hand;NA
 120710;Dimitrios Spiros Tofalos;M;22;NA;NA;Greece;GRE;1906;Summer;Athina;Weightlifting;Weightlifting Men's Unlimited, Two Hands;Gold
-120734;P. Toio;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
+120734;P. Toio;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Gold
 121126;Tassos Topsidellis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 121197;Gustaf Edvard Trnros;M;19;165;62;Sweden;SWE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 121214;Sndor Bernt Ede Blint Kzmr, Count Trk de Szendr;M;25;NA;NA;Hungary;HUN;1906;Summer;Athina;Shooting;Shooting Men's Free Pistol, 25 metres;NA
@@ -1550,29 +1550,29 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 122227;Khristos Tsatsanifos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres;NA
 122302;Konstantinos Kostas Tsiklitiras;M;17;189;81;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Standing High Jump;NA
 122302;Konstantinos Kostas Tsiklitiras;M;17;189;81;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
-122318;Ioannis Tsirakis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Hydra\"\"-2\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
-122322;Khristos Tsirigotakis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+122318;Ioannis Tsirakis;M;NA;NA;NA;Phalainis ton Thorichtou Hydra-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Silver
+122322;Khristos Tsirigotakis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 122328;Antonios Tsitas;M;NA;NA;NA;Omas Helliniki P. S.;GRE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Silver
 122328;Antonios Tsitas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Wrestling;Wrestling Men's Middleweight, Greco-Roman;NA
 122345;Andreas Tsolias;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
 122526;Pierre Alexandre Tuffri;M;29;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 110 metres Hurdles;NA
 122526;Pierre Alexandre Tuffri;M;29;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Standing Long Jump;NA
 122888;Romolo Tuzzi;M;NA;NA;NA;Roma;ITA;1906;Summer;Athina;Gymnastics;Gymnastics Men's Team All-Around;NA
-123005;Elios Tzannidis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
-123006;Pavlos Tzannos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+123005;Elios Tzannidis;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+123006;Pavlos Tzannos;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 123008;Alkiviadis Tzelepopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 5 mile;NA
 123008;Alkiviadis Tzelepopoulos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
-123010;Pavlos Tzetzos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+123010;Pavlos Tzetzos;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 123011;Spyridon Tzetzos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;NA
 123011;Spyridon Tzetzos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
 123015;Konstantinos Tzortzakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's 333 metres Time Trial;NA
 123015;Konstantinos Tzortzakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;NA
 123015;Konstantinos Tzortzakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
-123753;Emmilios Vafeas;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+123753;Emmilios Vafeas;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 123845;Georgios Valakakis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Fencing;Fencing Men's epee, Team;NA
 123959;Howard Van Nostrand Valentine;M;24;NA;NA;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 400 metres;NA
 123959;Howard Van Nostrand Valentine;M;24;NA;NA;United States;USA;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;NA
-124105;Nikolaos Valsamakis;M;NA;NA;NA;"\"Phalainis ton Thorichtou \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
+124105;Nikolaos Valsamakis;M;NA;NA;NA;Phalainis ton Thorichtou Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;NA
 124204;Alexander Hendrik Willem Lex van Blijenburgh;M;28;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;Bronze
 124204;Alexander Hendrik Willem Lex van Blijenburgh;M;28;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual;NA
 124204;Alexander Hendrik Willem Lex van Blijenburgh;M;28;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's Sabre, Individual, Three Hits;NA
@@ -1599,7 +1599,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 125311;Pl Vargha;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Athletics;Athletics Men's Javelin Throw, Freestyle;NA
 125311;Pl Vargha;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Athletics;Athletics Men's Pentathlon (Ancient);NA
 125390;Kharilaos Vasilakos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 1,500 metres Walk;NA
-125425;N. Vasiliadis;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Spetsai\"\"-4\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+125425;N. Vasiliadis;M;NA;NA;NA;Lemzos Thorichton Spetsai-4;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 125492;Paul Henri Vasseur;M;21;NA;NA;France;FRA;1906;Summer;Athina;Swimming;Swimming Men's One Mile Freestyle;NA
 125496;Fernand Vast;M;19;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;Gold
 125496;Fernand Vast;M;19;NA;NA;France;FRA;1906;Summer;Athina;Cycling;Cycling Men's Sprint;NA
@@ -1609,7 +1609,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 125752;Khristos Velegris;M;NA;NA;NA;Peiraikos Syndesmos-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
 125803;Spyridon Spyros Vellas;M;NA;NA;NA;Omas Helliniki P. S.;GRE;1906;Summer;Athina;Tug-Of-War;Tug-Of-War Men's Tug-Of-War;Silver
 125803;Spyridon Spyros Vellas;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Discus Throw, Greek Style;NA
-125805;Petros Velliotis;M;NA;NA;NA;"\"Large boat, Central Naval Prep School \"\"Poros\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
+125805;Petros Velliotis;M;NA;NA;NA;Large boat, Central Naval Prep School Poros-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Gold
 125806;S. Velliotis;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 125853;Ioannis Venieris;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 kilometres);NA
 125855;Loukas Venizelos;M;NA;NA;NA;Greece;GRE;1906;Summer;Athina;Athletics;Athletics Men's 800 metres;NA
@@ -1623,7 +1623,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 126126;Prospre Romeo Verschelden;M;NA;NA;NA;Belgium;BEL;1906;Summer;Athina;Cycling;Cycling Men's Road Race, Individual;NA
 126126;Prospre Romeo Verschelden;M;NA;NA;NA;Belgium;BEL;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
 126153;Franois Verstraeten;M;19;NA;NA;Belgium;BEL;1906;Summer;Athina;Cycling;Cycling Men's 20 kilometres;NA
-126203;Spyridon Spyros Vessalas;M;NA;NA;NA;"\"Life boat naval ship \"\"Spetsai\"\"-1\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
+126203;Spyridon Spyros Vessalas;M;NA;NA;NA;Life boat naval ship Spetsai-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's 6-Man Naval Rowing Boats;Silver
 126281;Nikolaos Vianginis;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Pairs (1 mile);NA
 126281;Nikolaos Vianginis;M;NA;NA;NA;Panhellenios Gymnastikos Syllogos-1;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
 126460;Raphal Flix Vigeveno;M;25;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's Foil, Individual;NA
@@ -1632,7 +1632,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 126461;Gabril Vigeveno;M;17;NA;NA;Netherlands;NED;1906;Summer;Athina;Fencing;Fencing Men's epee, Individual;NA
 126480;L. Vignola;M;NA;NA;NA;Italy;ITA;1906;Summer;Athina;Shooting;Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres;NA
 126911;Kroly Vitus;M;NA;NA;NA;Hungary;HUN;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
-127067;Georgios Vogiatzakos;M;NA;NA;NA;"\"Lemzos Thorichton \"\"Psara\"\"-3\"";GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
+127067;Georgios Vogiatzakos;M;NA;NA;NA;Lemzos Thorichton Psara-3;GRE;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;NA
 127147;Evangelos Volanakis;M;NA;NA;NA;Crete;CRT;1906;Summer;Athina;Athletics;Athletics Men's Marathon;NA
 127339;Zoltn Imre dn von Halmay;M;24;187;83;Hungary;HUN;1906;Summer;Athina;Swimming;Swimming Men's 100 metres Freestyle;Silver
 127339;Zoltn Imre dn von Halmay;M;24;187;83;Hungary;HUN;1906;Summer;Athina;Swimming;Swimming Men's 4 x 250 metres Freestyle Relay;Gold
@@ -1706,7 +1706,7 @@ ID;Name;Sex;Age;Height;Weight;Team;NOC;Year;Season;City;Sport;Event;Medal
 131902;Alois Wutte;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's Tandem Sprint, 2,000 metres;NA
 131902;Alois Wutte;M;NA;NA;NA;Austria;AUT;1906;Summer;Athina;Cycling;Cycling Men's 5,000 metres;NA
 133851;Nikolaos Zamanos;M;NA;NA;NA;Peiraikos Syndesmos-2;GRE;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;NA
-133961;G. Zannino;M;NA;NA;NA;"\"Marinai della nave da guerra \"\"Varese\"\"\"";ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
+133961;G. Zannino;M;NA;NA;NA;Marinai della nave da guerra Varese;ITA;1906;Summer;Athina;Rowing;Rowing Men's 17-Man Naval Rowing Boats;Bronze
 134012;Riccardo Zardinoni;M;22;NA;NA;Bucintoro Venezia;ITA;1906;Summer;Athina;Rowing;Rowing Men's Coxed Fours;Gold
 134029;Leonidas Theodoros Leon Zarifis;M;21;NA;NA;Greece;GRE;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA
 134030;Nikolaos Zarifis;M;20;NA;NA;Greece;GRE;1906;Summer;Athina;Tennis;Tennis Men's Singles;NA

@@ -1,6 +1,6 @@
-/*package fr.cegefos.pfe.service
+package fr.cegefos.pfe.service
 
-import org.apache.spark.sql.SparkSession
+/*import org.apache.spark.sql.SparkSession
 import org.apache.hadoop.fs.FileSystem
 import org.apache.hadoop.fs.Path
 
@@ -15,8 +15,8 @@ class FileSpliter(var sparkSession: SparkSession, var fileSystem:FileSystem) {
     val df = sparkSession.read.format("CSV").option("header", true).option("sep", ";").load(SRC_PATH)
 
     import org.apache.spark.sql.functions._
-    val replace = udf {(s: String) => s.replace("\"","")}
-    val df1 = df.withColumn("Name", replace(col("Name")))
+    val replace = udf {(s: String) => s.replace("\"","").replace("\\","").replace("\"","")}
+    val df1 = df.withColumn("Name", replace(col("Name"))).withColumn("Team", replace(col("Team"))).withColumn("Sport", replace(col("Sport"))).withColumn("Event", replace(col("Event")))
 
     df1
       .coalesce(1)
