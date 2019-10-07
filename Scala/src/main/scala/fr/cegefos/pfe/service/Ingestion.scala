@@ -25,7 +25,7 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
       val currentPath = srcRaw + "/version=current/" + name
       val versionPath = srcRaw + "/version=" + dateVersionning + "/" + name
 
-      //TODO Enhance this part to manage reinsertion of same file data (versioning management)
+      //versioning management
       val currentFilePath = new Path(currentPath + "/" + name + ".csv")
       val versionFilePath = new Path(versionPath + "/" + name + ".csv")
 
@@ -33,12 +33,16 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
         //move to version folder
         hdfsFS.mkdirs(new Path(versionPath))
         hdfsFS.rename(currentFilePath, versionFilePath)
+        //moving file from tempo zone to raw
+        hdfsFS.rename(file.getPath, currentFilePath)
       }else {
         //create path if not exists
         hdfsFS.mkdirs(new Path(currentPath))
+        //moving file from tempo zone to raw
+        hdfsFS.rename(file.getPath, currentFilePath)
       }
 
-      hdfsFS.copyFromLocalFile(file.getPath, currentFilePath)
+
 
       val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("quoteMode","NONE").option("delimiter", ";").load(currentFilePath.toString)
 
@@ -50,7 +54,7 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
           .coalesce(1)
           .write
           .parquet(lakePath)
-
+/*
       //move data copied into Done Path: to avoid additional copy
       val srcDonePath = new Path(file.getPath.toString.replace("input", "done"))
       if (!localFS.exists(srcDonePath.getParent)) {
@@ -59,6 +63,8 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
       }
 
       localFS.rename(file.getPath, srcDonePath)
+
+ */
     }
   }
 }

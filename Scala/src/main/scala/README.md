@@ -11,7 +11,11 @@ on server  with cluster mode launched with jar on edge:
 spark-submit --master yarn --deploy-mode cluster /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
 
 or on server with cluster mode launched with jar on hdfs:
-spark-submit --master yarn --deploy-mode cluster scripts/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
+spark-submit --conf spark.yarn.maxAppAttempts=1 --master yarn --deploy-mode cluster /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /dev/ftr/JO/data/ /dev/raw/JO/data /dev/lake/JO/data
 
 or on cluster with local mode with jar on edge:
-spark-submit /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/input /dev/raw/JO/data /dev/lake/JO/data
+spark-submit /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/data /dev/raw/JO/data /dev/lake/JO/data
+
+
+libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "1.1.0"
+libraryDependencies += "org.mongodb.spark" %% "mongo-spark-connector" % "1.1.0"

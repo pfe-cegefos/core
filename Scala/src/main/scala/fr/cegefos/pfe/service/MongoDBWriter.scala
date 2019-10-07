@@ -1,5 +1,5 @@
 package fr.cegefos.pfe.service
-
+/*
 import com.mongodb.spark.MongoSpark
 import org.apache.hadoop.fs.{FileStatus, FileSystem, Path}
 import org.apache.spark.rdd.RDD
@@ -56,3 +56,5 @@ class MongoDBWriter(var sqlContext:SQLContext, var localFS:FileSystem) {
     MongoSpark.save(players)
   }
 }
+
+ */

@@ -38,7 +38,9 @@ object ApplicationIngestion {
       val hdfsFS = FileSystem.get(hadoopConf)
 
       val localConf = new Configuration()
-      localConf.set("fs.defaultFS", "file://localhost")
+      localConf.set("fs.defaultFS", "hdfs://localhost:8020")
+      //localConf.set("fs.defaultFS", "file://localhost") //TODO REMOVE FOR CLUSTER
+
       val localFS = FileSystem.get(localConf)
 
       val ingestion = new Ingestion(sqlContext, hdfsFS, localFS)

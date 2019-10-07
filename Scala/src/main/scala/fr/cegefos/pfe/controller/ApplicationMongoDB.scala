@@ -1,5 +1,5 @@
 package fr.cegefos.pfe.controller
-
+/*
 import fr.cegefos.pfe.service.MongoDBWriter
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.FileSystem
@@ -45,3 +45,4 @@ object ApplicationMongoDB {
     }
   }
 }
+*/
