@@ -5,5 +5,10 @@ as
 
 select Year,
        avg(age) as avg_age
-from dev_lake_jo.jo_full_games
+from (select
+	Year
+	,ID
+	,age
+	from dev_lake_jo.jo_full_games
+	group by Year, ID, age) A
 group by Year;

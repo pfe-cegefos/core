@@ -23,8 +23,10 @@ select * from (
                         when 'Bronze' then 1
                         else 0
                     end as medal
-            from dev_lake_jo.jo_full_games
-            where Medal != 'NA'
+            from (select Year, Team, Medal, Event
+				from dev_lake_jo.jo_full_games
+				where Medal != 'NA'
+				group by Year, Team, Medal, Event) A
         ) t
         group by t.Year, t.Team
     )tt
