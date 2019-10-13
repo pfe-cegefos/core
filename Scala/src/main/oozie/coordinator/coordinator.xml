@@ -1,9 +1,9 @@
 <coordinator-app xmlns="uri:oozie:coordinator:0.2"
 				frequency="${coord:days(1)}" 
-				start="2019-10-07T06:00Z"
-				end="2019-10-13T23:59Z"
+				start="2019-10-10T06:00Z"
+				end="2019-10-11T23:59Z"
 				timezone="UTC"
-				name="jo_ingestion_coordinator" >
+				name="jo_ingestion_coord" >
 
     <controls>
         <timeout>-1</timeout>

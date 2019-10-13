@@ -1,0 +1,156 @@
+<workflow-app xmlns="uri:oozie:workflow:0.5" name="jo-ingestion-wf">
+
+	<global>
+		<configuration>
+			<property>
+				<name>oozie.launcher.mapreduce.map.memory.mb</name>
+				<value>512</value>
+			</property>
+			<property>
+				<name>oozie.launcher.mapreduce.map.java.opts</name>
+				<value>-Xmx400m</value>
+			</property>
+
+			<property>
+				<name>oozie.launcher.yarn.app.mapreduce.am.resource.mb</name>
+				<value>512</value>
+			</property>
+			<property>
+				<name>oozie.launcher.yarn.app.mapreduce.am.commands-opts</name>
+				<value>-Xmx400m</value>
+			</property>
+		</configuration>
+	</global>
+
+	<start to="data_ingestion"/>
+
+	<kill name="fail">
+		<message>
+			Shell action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
+		</message>
+	</kill>
+
+	<action name="data_ingestion">
+		<shell xmlns="uri:oozie:shell-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<exec>bash</exec>
+			<file>${oozieShellScripts}/ingestion.sh#ingestion.sh</file>
+			<capture-output/>
+		</shell>
+
+		<ok to="full_games_lake_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="full_games_lake_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-jo_full_games_lake_table.hql</script>
+		</hive2>
+
+		<ok to="top5_male_female_last_games_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_male_female_last_games_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-1-jo-top5_male_female_last_games.hql</script>
+		</hive2>
+
+		<ok to="top5_athletes_per_country_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_athletes_per_country_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-2-jo-top5_athletes_per_country.hql</script>
+		</hive2>
+
+		<ok to="top5_countries_per_sport_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_countries_per_sport_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-3-jo-top5_countries_per_sport.hql</script>
+		</hive2>
+
+		<ok to="top5_countries_per_year_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_countries_per_year_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-4-jo-top5_countries_per_year.hql</script>
+		</hive2>
+
+		<ok to="top5_sport_per_team_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_sport_per_team_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-5-jo-top5_sport_per_team.hql</script>
+		</hive2>
+
+		<ok to="top5_average_age_per_year_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_average_age_per_year_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-6-jo-top5_average_age_per_year.hql</script>
+		</hive2>
+
+		<ok to="top5_number_different_medals_per_country_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_number_different_medals_per_country_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-7-jo-top5_number_different_medals_per_country.hql</script>
+		</hive2>
+
+		<ok to="top5_number_different_medals_per_athlete_table"/>
+		<error to="fail"/>
+	</action>
+
+	<action name="top5_number_different_medals_per_athlete_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-8-jo-top5_number_different_medals_per_athlete.hql</script>
+		</hive2>
+
+		<ok to="end"/>
+		<error to="fail"/>
+	</action>
+
+	<end name="end"/>
+
+</workflow-app>

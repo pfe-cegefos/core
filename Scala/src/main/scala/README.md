@@ -17,5 +17,31 @@ or on cluster with local mode with jar on edge:
 spark-submit /home/cloudera/JO/bin/PFE-JO-assembly-1.1.jar /home/cloudera/JO/data/data /dev/raw/JO/data /dev/lake/JO/data
 
 
-libraryDependencies += "org.mongodb.scala" %% "mongo-scala-driver" % "1.1.0"
-libraryDependencies += "org.mongodb.spark" %% "mongo-spark-connector" % "1.1.0"
+
+
+<!--
+
+
+	<action name="spark-ingestion">
+    		<spark xmlns="uri:oozie:spark-action:0.2">
+    			<job-tracker>${jobTracker}</job-tracker>
+    			<name-node>${nameNode}</name-node>
+    			<configuration>
+    				<property>
+    					<name>mapred.compress.map.output</name>
+    					<value>true</value>
+    				</property>
+    			</configuration>
+    			<master>yarn-cluster</master>
+    			<mode>cluster</mode>
+    			<name>Spark-JO</name>
+    			<class>fr.cegefos.pfe.controller.ApplicationIngestion</class>
+    			<jar>/dev/app/JO/bin/PFE-JO-assembly-1.1.jar</jar>
+    			<arg>/dev/ftr/JO/data</arg>
+    			<arg>/dev/raw/JO/data</arg>
+    			<arg>/dev/lake/JO/data</arg>
+    		</spark>
+    		<ok to="end"/>
+    		<error to="fail"/>
+    	</action>
+-->

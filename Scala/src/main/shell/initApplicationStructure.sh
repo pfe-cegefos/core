@@ -72,8 +72,8 @@ create_hdfs_structure $app $env "app" "lib" $userid
 create_hdfs_structure $app $env "app" "logs" $userid
 create_hdfs_structure $app $env "app" "conf" $userid
 create_hdfs_structure $app $env "app" "oozie" $userid
-create_hdfs_structure $app $env "app" "oozie/workflow" $userid
-create_hdfs_structure $app $env "app" "oozie/workflow/scripts" $userid
+create_hdfs_structure $app $env "app" "oozie/workflow/scripts/shell" $userid
+create_hdfs_structure $app $env "app" "oozie/workflow/scripts/hive" $userid
 create_hdfs_structure $app $env "app" "oozie/coordinator" $userid
 
 #raw database creation

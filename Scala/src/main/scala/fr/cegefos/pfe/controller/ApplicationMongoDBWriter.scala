@@ -1,5 +1,5 @@
 package fr.cegefos.pfe.controller
-/*
+
 import fr.cegefos.pfe.service.MongoDBWriter
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.FileSystem
@@ -7,7 +7,7 @@ import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 
-object ApplicationMongoDB {
+object ApplicationMongoDBWriter {
   def main(args: Array[String]): Unit = {
     Logger.getLogger("org").setLevel(Level.ERROR)
 
@@ -45,4 +45,3 @@ object ApplicationMongoDB {
     }
   }
 }
-*/

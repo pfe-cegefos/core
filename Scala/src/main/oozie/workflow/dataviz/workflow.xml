@@ -1,0 +1,85 @@
+<workflow-app xmlns="uri:oozie:workflow:0.5" name="jo-dataviz-wf">
+
+	<start to="avg_age_p_team_lst5gms_p_seas_table"/>
+
+	<kill name="kill">
+		<message>
+			Action failed, error message[${wf:errorMessage(wf:lastErrorNode())}]
+		</message>
+	</kill>
+
+	<action name="avg_age_p_team_lst5gms_p_seas_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc2-avg_age_p_team_lst5gms_p_seas.hql</script>
+		</hive2>
+
+		<ok to="evol_med_p_team_lst5gms_p_seas_table"/>
+		<error to="kill"/>
+	</action>
+
+	<action name="evol_med_p_team_lst5gms_p_seas_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc2-evol_med_p_team_lst5gms_p_seas.hql</script>
+		</hive2>
+
+		<ok to="last_jo_avg_age_table"/>
+		<error to="kill"/>
+	</action>
+
+	<action name="last_jo_avg_age_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc2-last_jo_avg_age.hql</script>
+		</hive2>
+
+		<ok to="last_jo_top5_f_table"/>
+		<error to="kill"/>
+	</action>
+
+	<action name="last_jo_top5_f_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc2-last_jo_top5_f.hql</script>
+		</hive2>
+
+		<ok to="last_jo_top5_m_table"/>
+		<error to="kill"/>
+	</action>
+
+	<action name="last_jo_top5_m_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc2-last_jo_top5_m.hql</script>
+		</hive2>
+
+		<ok to="last_jo_top5_team_table"/>
+		<error to="kill"/>
+	</action>
+
+	<action name="last_jo_top5_team_table" cred="hive2">
+		<hive2 xmlns="uri:oozie:hive2-action:0.1">
+			<job-tracker>${jobTracker}</job-tracker>
+			<name-node>${nameNode}</name-node>
+			<jdbc-url>${jdbcUrl}</jdbc-url>
+			<script>${oozieHiveScripts}/usc1-6-jo-last_jo_top5_team.hql</script>
+		</hive2>
+
+		<ok to="end"/>
+		<error to="kill"/>
+	</action>
+
+	<end name="end"/>
+
+</workflow-app>

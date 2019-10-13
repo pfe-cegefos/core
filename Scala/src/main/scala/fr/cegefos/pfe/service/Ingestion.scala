@@ -42,8 +42,6 @@ class Ingestion(var sqlContext:SQLContext, hdfsFS:FileSystem, localFS:FileSystem
         hdfsFS.rename(file.getPath, currentFilePath)
       }
 
-
-
       val df = sqlContext.read.format("com.databricks.spark.csv").option("header", "true").option("quoteMode","NONE").option("delimiter", ";").load(currentFilePath.toString)
 
       val partitionName = currentFilePath.getParent.getName
